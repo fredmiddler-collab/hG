@@ -1,0 +1,1798 @@
+==============================================================
+Guild: Horizon Grey
+Channel: Roleplay / d9_district_rp / The Stacks
+==============================================================
+
+[5/15/2023 8:09 PM] dysplexus (pinned)
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1107821988627628172/Seiiyo_cyberpunk_abandoned_neighborhood_boarded_up_windows_hous_23d9875f-6871-4c16-8f5b-18478153fbc0.png?ex=68cc9f20&is=68cb4da0&hm=c77cf97345aa092e482a650246b4b8319a22b083d59877741c9c565c188b1eae&
+
+
+[5/15/2023 8:19 PM] Horizon Grey
+
+
+{Embed}
+Location:
+https://discord.com/channels/1106367747727835206/1107063840576897024/1107822491042332672
+Threat Level:
+★★★☆☆
+
+
+[5/15/2023 9:38 PM] Narration
+The streets were run down and dilapidated. Many of the buildings were crumbling and falling apart, and graffiti was splattered across the walls. The air was thick with the smell of cigarettes, alcohol, and other illicit substances. People were huddled in the shadows, muttering to themselves or arguing with each other.
+
+The camera pans through the streets and follows the bounty hunter with a perpendicular view. Capturing his side. The heavy rain flowed down the seams and folds of his cloak, water streaming down the peak of his hood as his head remained low. He was the unspoken, the unknown. His shadow danced and as a consequence, bled, in and out of the flickering fluorescent lights.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1107844459892314172/Seiiyo_cyberpunk_abandoned_neighborhood_boarded_up_windows_thug_b502aa91-d7d1-47df-ac28-8b418c606853.png?ex=68ccb40d&is=68cb628d&hm=86e9328d3e080fe9eb896c0aca722d4b41e81482fc21d23406d1fa392ff90a70&
+
+
+[5/15/2023 9:47 PM] Ghostgaze
+*Wrapped in a cloak that bore the weight of the rain, the bounty hunter moved with purpose and determination. Water cascaded down the seams and folds of his weathered garment, tracing a path along the contours of his form. His head remained low, shielded by the peaked hood that guarded his features from prying eyes. In this world of uncertainty and shadows, he embodied the unspoken, an enigma that walked the line between light and darkness.
+
+As the camera continued its tracking, the bounty hunter's silhouette became a mesmerizing dance of shadows and light. The intermittent glow of fluorescent lights overhead painted a flickering tableau upon his figure, amplifying the enigmatic aura that surrounded him. Each step he took, the shadows seemed to embrace and release him, weaving a tapestry of secrecy and mystique.
+
+In this rain-soaked metropolis, the bounty hunter navigated the treacherous terrain, a solitary figure driven by his own code and purpose. The city's underbelly, its forgotten corners, and desolate alleyways were his usual domain. Through the rain-soaked lens, the camera captured the essence of his presence, hinting at the untold stories and hidden depths that resided within the confines of his enigmatic persona.*
+
+
+[5/15/2023 10:06 PM] Narration
+Along the surface of his mask, data began populating the space, flicking in and out in rapid succession as he began connecting to the CCR's most wanted API to triple check his mission details...
+
+```
+bash v92.003.2994.1567
+Copy code
+$> ./connect -s bounty.mainframe.net -p 443 -u hunter182906 -pw ********
+Connecting to bounty.mainframe.net...
+Connection established.
+
+$> ./run -script bountySearch.sh -target "Garrett Fletcher"
+Running script bountySearch.sh...
+Searching for target "Garrett Fletcher"...
+
+$> ./decrypt -file encryptedData.bnty -key ********
+Decrypting file encryptedData.bnty...
+Decryption successful.
+
+$> ./parse -file decryptedData.bnty
+Parsing file decryptedData.bnty...
+
+Output:
+TARGET: Garrett Fletcher
+KNOWN ALIASES: None
+LAST KNOWN LOCATION: The Stacks, 4000th Block
+BOUNTY: 3,400 Micros
+CHARGES: Smuggling
+NOTES: Considered Armed
+```
+
+The target was nearby....
+
+
+[5/15/2023 10:12 PM] Ghostgaze
+*In the aftermath of the parsing process, the bounty hunter's mask displayed the extracted information, presenting a concise overview of the target's profile. **Garrett Fletcher**'s name stood at the forefront, accompanied by vital details such as his last known location, charges, bounty amount, and a note emphasizing the consideration of him being armed.*
+
+*The realisation struck Ghostgaze - his quarry, Garrett Fletcher, was in **close proximity.** With mission details securely confirmed, Ghostgaze's focused red gaze penetrated the rain-soaked surroundings, __alert__ and __ready__ to navigate the treacherous urban landscape in pursuit of his target.*
+
+
+[5/15/2023 10:12 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif?ex=68cc9915&is=68cb4795&hm=50538b50e0c39c839d064a94e95b24f14ab36b97004d4d34608e22fc374525f8&
+
+
+[5/16/2023 11:41 AM] Narration
+It was evident that despite the fact that the target was said to be nearby, the bounty hunter would have difficulty narrowing down his search. His next step would be to investigate his surroundings so he would know where to look for his target. But where exactly would he go? The Stacks was a dense urban jungle...
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1108056635059998770/Seiiyo_cyberpunk_suburbboarded_up_windows_night_raining_extreme_1bb23a15-2bb2-4791-809d-59f1e382b2c8.png?ex=68cc2828&is=68cad6a8&hm=0a3181c2cc7b5a4c48130764e1e6ef6ec3976675662a68a4a97d57a57bb05c14&
+
+
+[5/16/2023 11:50 AM] Ghostgaze
+*As Ghostgaze contemplated his next move, the weight of the task at hand pressed upon him. The realization that his target, Garrett Fletcher, was somewhere nearby added **urgency** to his mission. However, the sprawling urban expanse known as __The Stacks__ presented a challenge. It was a labyrinth of concrete and steel, a dense urban jungle teeming with hidden nooks and crannies that could shelter anyone seeking refuge.*
+
+*Ghostgaze understood that finding his target amidst the chaotic maze of The Stacks would require a meticulous approach. He needed to gather intelligence, observe, and navigate the urban landscape with precision. His instincts told him that the key to locating Garrett Fletcher lay in understanding the intricacies of this urban jungle.*
+
+*With a flicker of determination behind his masked gaze, Ghostgaze embarked on a systematic exploration of The Stacks. He moved with a calculated grace, his footfalls silent against the rain-soaked pavement. His senses absorbed the __sights__ and __sounds__ around him, **searching for any clues** that could lead him closer to his quarry.*
+
+*The bounty hunter ventured into dimly lit alleyways, where shadows clung to the walls like secrets waiting to be unveiled. He traversed narrow streets, carefully observing the graffiti-splattered walls and broken windows that marked the territory of the urban jungle's inhabitants. Ghostgaze's eyes scanned the faces of those who lingered in the shadows, hoping to catch a glimpse of recognition or a fleeting hint of guilt.*
+
+
+[5/16/2023 12:36 PM] Narration
+As the individual traversed through a narrow alley, he caught a glimpse of three disturbed individuals occupying the walkable space. All of which were on the ground or passed the fuck out, despite the rain dosing them suggesting they were tweaking at that moment. The only thing keeping them from going hypothermic from the cold rain was the flickering and wavering flame from a rusted out barrel.
+
+
+[5/16/2023 1:17 PM] Ghostgaze
+*As Ghostgaze cautiously navigated the narrow alley, the flickering light of a rusted-out barrel caught his attention. The scene before him revealed three individuals huddled together, their disheveled appearances and erratic movements indicating their troubled state. Despite the downpour drenching their bodies, they remained oblivious to the cold, likely consumed by the effects of their drug-induced stupor.*
+
+*The bounty hunter's keen observation skills took in the details of the scene. The three figures, their bodies contorted and shivering, lay sprawled on the wet pavement. Their disarrayed clothing and dilated pupils hinted at a recent drug binge. Their vulnerable state in such harsh conditions suggested the depths of their addiction.*
+
+*Ghostgaze's eyes narrowed as he analyzed the situation. These individuals, lost in their altered reality, posed no immediate threat to him. However, their presence could provide valuable information about the underbelly of The Stacks and potential connections to his target. With caution, he approached the flickering flame, the wavering light casting eerie shadows on the grimy alley walls.*
+
+*Keeping a safe distance, Ghostgaze surveyed the trio, noting their fidgety movements and incomprehensible mutterings. Their addiction had rendered them defenseless and unaware of their surroundings, making them unlikely sources of reliable information. However, the bounty hunter knew that even in the depths of despair, **loose lips** sometimes revealed hidden truths.*
+
+
+[5/16/2023 3:46 PM] Narration
+The poor drugged souls made no sense. Just indistinguishable babbling enmated their raspy lips. One of them placed his hands over their ears, crying as they rocked themselves. They were so desperate for peace that they'd rather block out the noise of the world and drown in their own sorrows.
+
+
+[5/16/2023 4:22 PM] Ghostgaze
+*Ghostgaze's impassive gaze swept over the pitiful scene before him, the expressions of the drug-addled individuals evoking **no** emotional response within him. Their incoherent babbling and desperate actions seemed like distant echoes in his detached world. He had long become **desensitized** to the plight of those trapped in the downward spiral of addiction and despair.*
+
+*One of them, overwhelmed by their own turmoil, sought refuge by covering their ears and rocking back and forth. Ghostgaze observed the scene with detached interest, acknowledging their desperate attempt to find solace amidst the chaos. But to him, it was merely another manifestation of **human struggle,** one that he had witnessed countless times before.*
+
+*The rain continued to fall, its rhythm serving as a backdrop to the desolation surrounding him. Ghostgaze remained unmoved, his emotional detachment shielding him from the cries and pleas of those lost in the shadows. He had honed this defence mechanism, a shield against the overwhelming weight of the world he navigated.*
+
+*In the face of their suffering, Ghostgaze's apathy held firm. The torment of these individuals did not penetrate his emotional fortress. Their struggles were no longer a cause for **concern** or **empathy**; they were mere obstacles in his relentless pursuit of his mission.*
+
+*With an indifferent sigh, Ghostgaze tore his gaze away from the drug-addled souls, resuming his journey through the rain-soaked alley. The echoes of their pain faded into the background, his focus shifting back to the task at hand. He remained committed to his role as a bounty hunter, driven by a detached sense of duty rather than personal investment.*
+
+**. . .**
+
+
+[5/16/2023 5:57 PM] Narration
+After leaving the alley, the bounty hunter left behind the addicts. A larger alley connected to the first. The alleyway was lined with four goons walking towards Ghostgaze.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1108151291449983056/Seiiyo_alleyway_cyberpunk_abandoned_4_gang_members_melee_weapon_cc86dbd0-f959-45a8-bd97-3e74d6b74687.png?ex=68cc8050&is=68cb2ed0&hm=7e63ad16aecdd254752c91c9284d5bd38479bf61af94008fc94c7edf3501391c&
+
+
+[5/16/2023 5:59 PM] Narration
+They were not particular aware of Ghostgaze... If he acted quick he could slip by unnoticed.
+
+
+[5/16/2023 6:22 PM] Ghostgaze
+*After leaving the alley, Ghostgaze swiftly moved into a larger alleyway that connected to the previous one. The dimly lit path was lined with dilapidated buildings, casting elongated shadows that __concealed__ his presence. As he pressed on, his senses heightened, alert to any potential threats lurking in the darkness.*
+
+*As Ghostgaze observed the four goons approaching, he quickly assessed the distance between them. They were approximately 30 yards away, giving him enough time to execute a daring feat of **parkour** without being detected. The cover of darkness worked in his favor, __shrouding his movements__ and providing an ideal environment for his agile maneuvers.*
+
+*With a silent determination, Ghostgaze scanned the immediate surroundings, searching for the perfect vantage point. His keen eyes locked onto a nearby building, its walls adorned with rusted fire escapes and drainpipes. It was a challenging but feasible route that would lead him to the rooftop, away from prying eyes.*
+
+*Summoning his parkour expertise, Ghostgaze leaped onto a __nearby dumpster,__ using it as a springboard to propel himself upward. His muscles coiled like springs as he effortlessly scaled the wall, his gloved hands gripping the edges of window ledges and ledges with precision. Each movement was **calculated** and **deliberate,** ensuring minimal noise and maximum efficiency.*
+
+**. . .**
+
+
+[5/16/2023 6:22 PM] Ghostgaze
+*The goons continued their conversation, oblivious to the spectacle unfolding above them. Ghostgaze's swift ascension allowed him to rise above their line of sight, hidden in the enveloping darkness. His cloak billowed behind him, blending seamlessly with the night sky.*
+
+*Reaching the rooftop, Ghostgaze landed with a soft thud, his boots absorbing the impact. He crouched low, keeping his silhouette hidden against the backdrop of the building's edge. From his elevated position, he had an advantageous view of the alleyway below, allowing him to monitor the goons' movements while remaining undetected.*
+
+*The rain intensified, providing a soothing soundtrack to his vigilance. Ghostgaze carefully observed the goons as they passed beneath him, their voices growing fainter with each step. Hopefully he had successfully evaded their attention, using his parkour skills and the cover of darkness to his advantage.*
+
+
+[5/16/2023 7:30 PM] Narration
+The bounty hunters' efforts were not in vain. None of them knew anything. With Ghostgaze on the roof, this paved the way for a whole new navigation style. The confusing labyrinth of junk would allow Ghostgaze to navigate across rooftops without having to lose the height advantage if he was to get into engagement from below. 
+
+With the goons evaded, it was time for him to really hone in and scour the area for any signs of his target.
+
+
+[5/16/2023 7:39 PM] Ghostgaze
+*Perched on the rooftop, Ghostgaze surveyed the urban landscape spread out before him. The tops of the buildings formed a **maze-like network,** a convoluted path through which he could navigate without sacrificing his advantageous position. The labyrinth of junk and structures became his personal playground, enabling him to maintain the height advantage while scouring the area for any signs of his elusive target.*
+
+*Ghostgaze's trained eyes scanned the streets below, his gaze darting from **one corner to another,** searching for any telltale signs that would lead him closer to his objective. The rain continued to pour, washing away the grime and revealing hidden secrets amidst the dilapidated surroundings.*
+
+*He moved with calculated precision, carefully planning his route across the rooftops. His agility and familiarity with the environment allowed him to traverse the uneven terrain quite easily. Ghostgaze leaped from one ledge to another, gracefully landing on crumbling ledges and rusted scaffolding, his movements a seamless blend of **strength, balance, and grace.***
+
+*The height advantage granted him a broader perspective, granting him the ability to observe the cityscape from a unique vantage point. He meticulously scanned __each alleyway, every window, and every shadow,__ seeking any clue that would bring him **closer to his quarry.** Ghostgaze's senses were heightened, attuned to the subtlest changes in the environment, alert for any signs of movement or disturbance.*
+
+*As he traversed the rooftops, he remained silent and elusive, a phantom in the rain-soaked night. His cloaked figure blended with the darkness, making him almost imperceptible to the casual observer below. The city lights flickered, casting intermittent glimmers on his skeletal mask and the gleaming red lenses of his goggles.*
+
+
+[5/16/2023 8:05 PM] Narration
+The hunter scanned the horizon of the urban wasteland. When he was conducting his fourth pass over, he would notice a recently lit room. The windows were boarded up, but due to the lack of symmetry  there was sizable gap. Three men were moving about in the room.
+
+
+[5/16/2023 8:15 PM] Ghostgaze
+*Ghostgaze's keen eyes swept across the desolate urban wasteland, meticulously examining the dilapidated buildings and boarded-up windows. As he conducted his fourth pass, a flicker of movement caught his attention. In the midst of the decaying surroundings, a room stood out from the rest—a room with recently lit lights.*
+
+*Curiosity piqued, Ghostgaze **focused his gaze** on the boarded-up windows of the peculiar room. The uneven and haphazard arrangement of the boards created a small gap, providing a glimpse into the secretive activity within. Three figures moved about inside, their actions shrouded in mystery.*
+
+*The bounty hunter's analytical mind began to piece together the limited information at hand. The asymmetry of the boarded-up windows __suggested__ a deliberate attempt to conceal the room's contents. Ghostgaze instinctively understood that something of significance was transpiring within those walls, and it **warranted further investigation.***
+
+*His trained eyes studied the movements of the three men inside the room. Their actions appeared purposeful, yet their intentions remained veiled. Ghostgaze's sharp mind began **analysing** their behaviour, searching for any clues that would shed light on their identities and activities.*
+
+*The hunter's patience and discipline served him well in this moment. Rather than rushing into action, he observed from his concealed vantage point, carefully calculating his next move. Ghostgaze knew that rash decisions could jeopardize the element of surprise, and so he opted for a measured approach.*
+
+**. . .**
+
+
+[5/16/2023 8:15 PM] Ghostgaze
+*Silently, he **formulated a plan.** He would need to find a way to enter the room undetected, ensuring he could gather the necessary information without alerting his targets. Ghostgaze's cloak fluttered in the wind as he contemplated the best course of action, his mind sharp and calculating.*
+
+*With a final sweep of the area to ensure he had not overlooked any other potential leads, he locked his gaze on the room with the flickering lights. Determination etched on his face behind the mask, he prepared to descend from his rooftop perch and make his way closer to the enigmatic trio.*
+
+*The hunter's footsteps were **nearly** soundless as he moved with calculated precision. His parkour skills allowed him to navigate the crumbling structures with ease, avoiding loose debris and potential hazards. He moved closer to the building housing the room of interest, his focus unwavering.*
+
+*As he approached, the bounty hunter assessed the exterior, searching for any vulnerabilities or alternative entry points.*
+
+
+[5/16/2023 8:28 PM] Narration
+Immediately outside the door leading to the house was a guy looking around nervously. In addition, there were two others with pistols who seemed unassociated with the man at the door, although they were looking out. Their heads swivel. The situation felt tense, and it seemed like the men were looking for something - or someone.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1108189379807162478/Bad_Hideout_1_HavenHeight.png?ex=68cca3c9&is=68cb5249&hm=3d4d2c8488f389d2df38246f477006d399b2496ba99643c59baefa12c26f8eb8&
+
+
+[5/16/2023 8:48 PM] Ghostgaze
+*Ghostgaze's trained senses detected the tension in the air as he observed the scene below. His eyes focused on the man standing outside the door, his nervous demeanour revealing his anticipation and unease. The bounty hunter deduced that he was likely a lookout, guarding the entrance and alerting the others to any potential threats.*
+
+*The two individuals with pistols caught his attention. Their lack of association with the man at the door indicated a separate group or faction. Their vigilant scanning of the surroundings suggested that they, too, **were on high alert**, possibly searching for someone or something of importance.*
+
+*Ghostgaze's mind quickly **formulated possible scenarios,** analysing the available information. The presence of armed individuals heightened the potential danger and added complexity to his mission. His training and experience prepared him for such situations, urging him to remain calm and composed in the face of uncertainty.*
+
+**. . .**
+
+
+[5/16/2023 8:48 PM] Ghostgaze
+*Assessing the situation, Ghostgaze weighed his options. He could attempt to bypass the individuals and infiltrate the building directly, **but** the risk of alerting them and potentially engaging in a firefight was high. __Alternatively,__ he could observe and gather more intelligence, waiting for an opportune moment to strike or discover more about the objective he sought.*
+
+*Maintaining his covert presence, he continued to scan the area, searching for any signs or clues that could provide him with a tactical advantage. He studied the behaviour and body language of the individuals, attempting to decipher their motives and objectives. Ghostgaze's instincts guided him, knowing that patience and careful observation could unveil vital information that would guide his next move.*
+
+*As the rain continued to fall, Ghostgaze remained hidden, his **mind sharp** and his **senses heightened.** He prepared himself __mentally__ and __physically,__ ready to adapt to the evolving situation and seize the opportunity to achieve his mission objective. The tension in the air only fuelled his determination, knowing that his unique set of skills, combined with his cloak of invisibility, would enable him to strike swiftly and decisively when the time was right.*
+
+
+[5/16/2023 9:36 PM] Narration
+One of the guys would groan as he stretched. Now moving away from the building and down the road.
+**"I'm going to take a piss around the corner."**
+
+The second guy's attention was drawn to his partner for the time being.
+
+
+[5/18/2023 1:53 PM] Ghostgaze
+*Ghostgaze fluidly drew his **handgun** from its holster, his movements precise and controlled. With the weapon in hand, he assumed a position that allowed him to observe the unfolding situation from a safe distance. His trained eyes meticulously scanned the surroundings, assessing the movements and behaviours of the individuals in front of him.*
+
+*Remaining patient and focused, Ghostgaze maintained **a steady grip** on the handgun, ready to react swiftly if the need arose. His years of experience in covert operations taught him the value of observation and calculated decision-making. In this moment, he relied on his honed instincts and keen senses to **gather as much information** as possible before taking any action.*
+
+*The sound of rain intensified the ambiance, providing a natural cover for Ghostgaze's presence. He blended seamlessly into the environment, his dark attire and focused demeanour aligning with the **gloomy atmosphere** of the urban wasteland.*
+
+*With his finger resting **lightly** on the trigger, Ghostgaze maintained a **state of readiness,** prepared to defend himself if the situation escalated. His focus sharpened, his senses heightened, as he awaited the perfect moment to take action or silently slip away, depending on the unfolding events.*
+
+*His training and experience allowed him to remain__ calm__ and __composed__ in the face of uncertainty. His hand steadied, and his mind remained clear as he assessed the risks and possibilities that lay ahead. Patiently, he continued to observe, gathering vital information that would inform his next move in this intricate dance of shadows and danger.*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1108814631641813032/image.png?ex=68cc4718&is=68caf598&hm=5c9e83d995c21c49b21343c114c45224f7c7d4a0a543fb8b30b11cc57111fdd1&
+
+{Reactions}
+🐐 (3)
+
+[5/18/2023 9:28 PM] Narration
+The guy watching his buddy venture off to handle his business would sigh, turning his back to Ghostgaze. He was currently on his way to get underneath the awning that would shield him from the rain.
+
+
+[5/18/2023 10:06 PM] Ghostgaze
+*Ghostgaze, recognizing the opportunity, __swiftly descended__ from his vantage point, his footsteps making no sound against the wet pavement. Like a shadow, he silently **closed the distance** between himself and the unsuspecting man, who was seeking shelter under the protective awning.*
+
+*With a calculated approach, Ghostgaze positioned himself behind the man, his movements flowing with a deadly grace. **His hand extended,** fingers __poised__ to grasp the man's neck in a precise and controlled grip. He aimed to swiftly execute the neck break, a technique that would render the target incapacitated and silent.*
+
+***Every muscle in Ghostgaze's body tensed as he prepared to make his move.** His training and instincts guided him, ensuring that his __attempt__ would be executed with efficiency and precision.*
+
+https://youtu.be/Y3L75ksqcAE
+
+{Embed}
+Haru Gaming
+https://www.youtube.com/watch?v=Y3L75ksqcAE
+Goblin Slayer Original Soundtrack - 14. Evil Deeds
+The complete soundtrack released for the animation of Goblin Slayer. I noticed that a few tracks are missing from the anime and the PV in general, you can find them on my channel :) enjoy !
+https://images-ext-1.discordapp.net/external/JngZsk-Bx6at8Q-XNutpxJ3EPnbsTfaVuxDI24bOEO4/https/i.ytimg.com/vi/Y3L75ksqcAE/maxresdefault.jpg
+
+
+[5/18/2023 10:17 PM] Narration
+The man gasped before his lights turned out. A loud crunch timed perfectly with the thunder roll, preventing anyone to suspect a thing. The man at the door was not paying attention. His gaze fixated on the knob as he fidgeted. 
+
+The man who went to take a piss was still away.
+
+
+[5/18/2023 10:21 PM] Ghostgaze
+*Ghostgaze's eyes flickered with calculating focus as he observed the man at the door, engrossed in his own thoughts. It was the perfect opportunity to strike swiftly and silently. **However,** his attention soon shifted to the man who had gone off to relieve himself. Assessing the situation, Ghostgaze realised that this unsuspecting target presented another opportunity to __neutralize__ a potential threat.*
+
+*Knowing that a direct confrontation might alert the others, Ghostgaze quickly scanned his surroundings, searching for a suitable object that could serve as a **makeshift weapon.***
+
+
+[5/18/2023 10:23 PM] Narration
+There were many objects that littered the streets. From trash to old tires. Though, something did stand out. A broken pipe, the length of a a person's arm. It laid aside a dumpster in a nearby alleyway.
+
+
+[5/18/2023 10:29 PM] Ghostgaze
+*Ghostgaze's eyes scanned the area, swiftly assessing the available objects strewn about the streets. Among the debris and discarded items, his gaze landed on a **broken pipe,** abandoned near a nearby dumpster. Its length and weight seemed ideal for his purpose, offering both __reach__ and __impact.__*
+
+*Ghostgaze's bandaged hand reached out, his fingers curling around the worn surface of the pipe. He could feel its **solid weight** in his grasp, a __fitting instrument__ for his plan. The metal was rough against his palm, its edges jagged from years of neglect, yet it offered a certain **raw power.***
+
+*With the broken pipe in hand, Ghostgaze calculated his next move. He knew that timing was crucial, and the man who had gone to relieve himself presented an opportunity. Ghostgaze crouched low, **blending into the shadows** as he approached the opposite direction where the man had ventured.*
+
+*Silently, he closed the distance, his footsteps muffled by the rain-soaked ground. His trained eyes never wavered from his target, who was still oblivious to the imminent danger. Ghostgaze's mind raced with strategies, visualizing the precise trajectory and timing required for a successful strike.*
+
+*As the man continued to relieve himself, Ghostgaze positioned himself, gauging the **optimal distance and angle.** He tightened his grip on the broken pipe, __readying himself__ to unleash its potential. The sound of raindrops hitting the pavement seemed to fade into the background as Ghostgaze's focus narrowed to a **singular point.***
+
+
+[5/19/2023 1:05 PM] Narration
+Crunch.. GhostGaze's foot came upon an loose piece of asphalt that caused his boot to slide a bit. Releasing that griddy rock sound.
+
+**"Huh?"** The man began turning around!
+
+
+[5/19/2023 1:05 PM] Ghostgaze
+*With a fluid motion, Ghostgaze lunged forward, the pipe arcing through the air with controlled force. His aim was true, aimed at the man's head, intending to deliver a decisive blow that would incapacitate him without raising an alarm!*
+
+
+[5/19/2023 1:08 PM] Narration
+The man's head snapped into the other direction, spinning and hitting the ground on his side with a thud. The rest of his body followed in suite, landing on his stomach.
+
+
+[5/19/2023 1:14 PM] Ghostgaze
+*Ghostgaze's calculated strike connected with precision, the broken pipe colliding with the man's head with a resounding impact. The force of the blow caused the man's head to snap to the side, his body crumpling to the ground with a thud. His limbs sprawled out, landing him on his stomach in a state of unconsciousness.*
+
+*Ghostgaze stood over the fallen man, his gaze **steady** and **unfazed.** The rain continued to pour, washing away any evidence of the swift and decisive action that had just taken place. With a quick assessment to ensure the man was indeed incapacitated, Ghostgaze silently moved on, his mission still at hand.*
+
+*The sound of rain and distant city noise serving as a backdrop to Ghostgaze's stealthy movements really came in handy. He had successfully neutralised two threats, but his focus remained **unwavering.***
+
+
+[5/19/2023 1:37 PM] Narration
+The last known person on the perimeter was the man at the door!
+
+
+[5/19/2023 1:52 PM] Ghostgaze
+*Ghostgaze advanced silently through the darkness, his movements fluid and precise. As he closed the distance, his hand smoothly slid over the sleek, obsidian black frame of the **__Midnight Edge,__** his **trusted handgun.** The weapon's formidable design and lethal capabilities perfectly complemented his skill set, empowering him in the shadows.*
+
+*Secured within a custom-fitted holster on Ghostgaze's right thigh, the Midnight Edge remained concealed, yet easily accessible. The holster's sleek design allowed for a __swift__ and __fluid__ draw, ensuring Ghostgaze could transition seamlessly from concealment to action with impressive speed and precision. It was a sleek and formidable handgun that bears a striking resemblance to the renowned **Glock 17,** yet possesses a unique identity all its own. This compact powerhouse is meticulously crafted, maintaining the essence of its larger counterpart while offering enhanced **manoeuvrability** and **discreet** handling. The streamlined profile ensures seamless concealment, making it an ideal companion for **covert operations and urban environments.***
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109176798283042887/Seiiyo_glock_17_custom_cyberpunk_pistol_2ac8f7f6-75e4-40be-a997-e57abd16cba5.png?ex=68cc46e4&is=68caf564&hm=70f39e2029507ea2c63fc04325a19b081ace2200f570ab35e23167522c3ab1e9&
+
+
+[5/19/2023 1:52 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453109569065041/9.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453109569065041/9.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453109569065041/9.gif?ex=68cc9914&is=68cb4794&hm=5233b5823e25ca34fc201c236669ad21afe539367cfb3cb60f86223f37b53f62&
+
+
+[5/19/2023 1:52 PM] Ghostgaze
+*In the dimly lit alleyway, Ghostgaze's eyes emitted a subtle **red glow** on his mask. The eerie radiance added an intimidating aura to his presence, accentuating the enigmatic nature of his identity. His heightened senses, honed by years of training and experience, kept him alert and focused, ready to respond to most threats that may arise.*
+
+*Approaching the man at the door, Ghostgaze remained **cautious,** knowing that appearances could be deceiving. Though the man __appeared__ unarmed, he could not afford to underestimate the situation. With his weapon ready but concealed, Ghostgaze remained prepared for unforeseen circumstances that may require swift action.*
+
+*The rain continued to pour, further obscuring the surroundings and shrouding Ghostgaze's movements. He **closed in** on the last known person on the perimeter, his presence a whisper in the night. The city's ambient sounds and the rhythmic patter of raindrops masked his approach, ensuring his advance remained undetected.*
+
+*With his red-glowing eyes fixed on the man at the door, Ghostgaze's focus remained unwavering. His hand **tightened** around the grip of the Midnight Edge, ready to unleash its lethal potential should the need arise. In the darkness, he embodied the enigmatic figure, **a hunter in pursuit of his prey,** prepared to confront any obstacles that stood in his way.*
+
+
+[5/19/2023 1:53 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453111565553766/4.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453111565553766/4.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453111565553766/4.gif?ex=68cc9915&is=68cb4795&hm=11923b9256b56e1e6769049551ed40ff323d3c3a1435b774c106110e250c5c11&
+
+
+[5/19/2023 1:54 PM] Ghostgaze
+https://youtu.be/GAeHZkbcy5k
+
+{Embed}
+Garçons - Topic
+https://www.youtube.com/watch?v=GAeHZkbcy5k
+Hades
+Provided to YouTube by DistroKid
+
+Hades · Garçons
+
+Nil
+
+℗ Garçons
+
+Released on: 2020-01-13
+
+Auto-generated by YouTube.
+https://images-ext-1.discordapp.net/external/CEEtSQCTDqXGPhFjr1GlOpza3poSAvfGqGrdYYl-1Ng/https/i.ytimg.com/vi/GAeHZkbcy5k/maxresdefault.jpg
+
+
+[5/19/2023 6:06 PM] Narration
+The man was unsuspecting of Ghostgaze. As he approached the man, there were key indications that the person was unwell. In fact, he had the physical quirks of an addict. Constantly, he would scratch his neck and shuttering despite being fully clothed and shielding from the rain underneath the awning of the front door.
+
+
+[5/19/2023 6:40 PM] Ghostgaze
+*Ghostgaze approached the man, noting his disheveled appearance and the signs of addiction that marked him. While it was evident that this individual was **not** his intended target, Garrett Fletcher, Ghostgaze's detached nature __propelled him__ to take swift action, **attempting to neutralize** any potential threat or hindrance.*
+
+*With calculated precision, Ghostgaze lunged forward, aiming to grab the addict's head and forcefully **smash it** against the nearby wall. His muscles tensed, ready to exert the necessary force.*
+
+
+[5/19/2023 6:44 PM] Narration
+The man was unsuspected of the attack. Without being able to brace the man's head would go into the brick walling beside the door. Since brick does not revibrate sound well. Those inside would have never heard the man's skull cracking.
+
+He hit the wall with such force that it did not even rebound behind Ghostgaze's firm grip upon the back of his skull. Blood painting the wall as the front of his face was perhaps unrecognizable. His nose pushed into one of his cheekbones.
+
+
+[5/19/2023 6:56 PM] Ghostgaze
+*Ghostgaze stood there for a moment, observing the lifeless body slumped against the wall. His grip on the man's skull loosened, and he took a step back, the gravity of his actions sinking in. The rain continued to pour, washing away the blood that stained the brick wall. **It was a stark reminder of the violence that permeated the streets.***
+
+*With the immediate threat neutralised, Ghostgaze's mind shifted to his next course of action. He **contemplated** the dimly lit building before him, aware that his target, Garrett Fletcher, could __potentially__ be inside. His instincts urged him to **disrupt** the power source, plunging the building into darkness and granting him an advantage in the shadows.*
+
+*Silently, Ghostgaze began to navigate the immediate surroundings, **searching** for any signs of a power source.*
+
+
+[5/19/2023 7:08 PM] Narration
+Around the back of the house was the power box. The door seemingly already open. It appeared to be jerry rigged with an device that allows power draw despite not paying the bills.
+
+
+[5/19/2023 7:16 PM] Ghostgaze
+*Ghostgaze's attention was drawn to the back of the house, where the power box stood. The door to the box was ajar, revealing a makeshift setup that bypassed the need for paying utility bills. It was clear that someone had rigged a device to siphon electricity illegally.*
+
+*Intrigued by the ingenuity of the setup, Ghostgaze approached the power box **cautiously,** his senses on high alert. He surveyed the area, ensuring he wasn't walking into a trap. The rain continued to pour, masking his presence and providing a cloak of anonymity.*
+
+*With a bandaged hand, Ghostgaze gently pushed the door of the power box open, revealing a **mess of wires and jerry-rigged connections.** It was evident that the individual who had set this up had some knowledge of **electrical systems,** albeit an __unorthodox__ one.*
+
+*Ghostgaze's eyes narrowed as he studied the intricate web of wires. He recognized the makeshift device that allowed for power draw without detection. It was a **clever contraption,** designed to circumvent the conventional mechanisms of monitoring and billing. This revelation hinted at the resourcefulness of those who inhabited the house, perhaps indicating a group operating on the fringes of society.*
+
+*Mindful of the potential dangers that lurked within, Ghostgaze proceeded with caution. He scanned the area, ensuring he wasn't being **observed** or **interrupted.** His focus shifted to the task at hand—**to disrupt the power source and further shroud his movements in darkness.***
+
+*With deft precision, Ghostgaze reached into the power box, his bandaged hand defying the rain's attempts to hinder his dexterity. He traced the jumble of wires, his fingers moving purposefully __to identify__ the connection that would sever the flow of electricity to the house.*
+
+
+[5/19/2023 7:30 PM] Narration
+And with a swift pull of his hand, the power went out. Audibly, the people on the inside were caught off guard. 
+
+**"The hell? Jock, go make sure those Dorphhead didn't fuck with the power."**
+
+
+[5/19/2023 7:33 PM] Ghostgaze
+*Ghostgaze's heard the startled voices from within the darkened house. The sudden loss of power had caught the occupants off guard, creating an opportune moment for him to strike. The mention of someone named Jock being tasked with investigating the situation piqued Ghostgaze's interest.*
+
+*Remaining **concealed in the shadows,** Ghostgaze listened intently, his heightened senses attuned to any movement or sound. He knew that time was of the essence, and he had to act swiftly to maintain the element of surprise.*
+
+*As the sound of footsteps approached the back of the house, Ghostgaze carefully calculated his next move. With his hand gripping the **__Midnight Edge,__** he prepared himself for the imminent encounter. The glow of his red eyes intensified behind his mask, a reflection of his focused determination.*
+
+
+[5/19/2023 7:42 PM] Narration
+Jock presumably would round the corner, annoyed at best as he felt his way towards the power box by using the wall.
+
+
+[5/19/2023 7:56 PM] Ghostgaze
+*Ghostgaze seized the opportunity to strike. The rain-drenched environment provided cover for his stealthy approach. With a swift and silent motion, Ghostgaze holstered his handgun, opting for a more intimate means of dispatching his target.*
+
+*His bandaged hand deftly reached for the handle of his **Ka-Bar knife,** a trusty companion in his line of work. The handle, crafted with a wooden design, provided a secure and comfortable grip, enhancing Ghostgaze's control over the blade. The cold steel of the knife's blade gleamed ominously in the dim light, its deadly purpose unmistakable.*
+
+*Ghostgaze moved like a shadow, closing in on Jock with a predator's grace. His footsteps were muffled by the rain-soaked ground, ensuring his approach remained undetected. The sound of Jock's frustrated movements masked the faint rustle of Ghostgaze's clothing as he drew nearer.*
+
+*With calculated precision, Ghostgaze positioned himself behind Jock, taking advantage of the man's preoccupation with the power box and his reliance on the wall for guidance. Every movement was executed with the utmost care, his training and experience guiding his actions.*
+
+*As Jock continued to fumble along the wall, Ghostgaze **closed the remaining distance,** his presence a mere whisper in the night. The raindrops provided a rhythmic backdrop, masking the soft click of the knife being freed from its sheath.*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109268309125374012/ryan-sizemore-asset.png?ex=68cc9c1e&is=68cb4a9e&hm=7fd027f1a387420fb8592bc59db406ca9f0ea48b1eb0a096ed715f29cbb17284&
+
+
+[5/19/2023 7:59 PM] Narration
+As Ghostgaze closed the distance, the man would spin on him. Holding a pistol of his own. **"You really think I didn't see that body you left for us huh?!"** He'd fire off two shots without really aiming!
+
+
+[5/19/2023 8:06 PM] Ghostgaze
+*In a split second, the man's sudden movement caught Ghostgaze **off guard.** The sound of the gunshot echoed through the rain-soaked night, briefly shattering the relative silence. Reacting swiftly, Ghostgaze instinctively dove to the side, **__narrowly__** evading the bullets that whizzed past him.*
+
+*With his trained reflexes and agility, Ghostgaze rolled to the side, in an attempt to seek cover behind a nearby dumpster. The rain continued to pour, masking his movements and providing a veil of obscurity. From his concealed position, he assessed the situation, his mind racing to formulate a plan.*
+
+*The man's words hung in the air, his anger evident in his voice. Ghostgaze remained silent, his face hidden behind his mask, **betraying no emotion.** He knew that engaging in conversation now would only waste precious seconds and jeopardize his mission.*
+
+
+[5/19/2023 8:07 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453111158722610/5.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453111158722610/5.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453111158722610/5.gif?ex=68cc9915&is=68cb4795&hm=3e9b8b1c071e57634c488939e652871be6fd7c93f27bb8387bc4a35fea54f4bf&
+
+
+[5/19/2023 8:07 PM] Narration
+The man was not going to remain a stationary target.  He would hop around, trying to make is way around the side of the house to get better cover as well.
+
+
+[5/19/2023 8:14 PM] Ghostgaze
+*As the man hopped and maneuvered, seeking better cover, Ghostgaze tracked his movements with a sharp focus. The rain continued to pour, creating a chaotic backdrop for their deadly dance. With each step the man took, Ghostgaze anticipated his next move, his mind working in sync with his trained reflexes.*
+
+*Keeping his Midnight Edge **steady,** Ghostgaze mirrored the man's actions,  navigating the terrain and obstacles that lay in their path. The sleek and formidable weapon remained an extension of his hand, its weight familiar and comforting.*
+
+*As the man attempted to gain an advantageous position, Ghostgaze maintained a distance, staying out of the immediate line of fire. He knew that patience and precision would be the keys to success in this tense encounter. With each passing moment, the weight of the situation bore down on both of them.*
+
+*Ghostgaze's eyes, behind the red glow of his mask, analysed the surroundings, searching for any potential **openings** or **vulnerabilities.** He assessed the man's movements, analysing his patterns and reactions. Every twitch, every change in direction, Ghostgaze processed and calculated.*
+
+*The rain-soaked ground beneath their feet turned into a battlefield, the tension escalating with every passing second. Ghostgaze remained focused, his breathing steady, blocking out **any distractions.** In his mind, there was only the mission, the objective to **neutralise the threat before him.***
+
+
+[5/19/2023 8:21 PM] Narration
+The man was backing up against a rusted out shopping cart. Perhaps when he hits it and stumbles would be his opportunity? Beyond that, he did  not possess any other vulnerabilities that were readily apparent.
+
+
+[5/19/2023 8:27 PM] Ghostgaze
+*Ghostgaze patiently awaited for his opportunity. With the rain pouring down and the tension reaching its peak, he observed the man's movements, waiting for the perfect moment to strike.*
+
+
+[5/19/2023 8:30 PM] Narration
+Then it happened, he'd strike the shopping cart due to the low light visibility. Stumbling, he would not be able to catch himself and roll on the ground.
+
+
+[5/19/2023 8:38 PM] Ghostgaze
+*As the man stumbled and collided with the shopping cart, Ghostgaze swiftly closed the distance, taking advantage of the **low light visibility** to maintain the element of surprise. With calculated precision, he wielded his Midnight Edge handgun, his finger **firm on the trigger.***
+
+*In a fraction of a second, Ghostgaze aimed his weapon at the man's head, **recognizing the critical vulnerability of this vital target.** The sound of a **single** gunshot pierced the air, momentarily drowning out the sounds of rain and thunder.*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109278887323635812/82be9c31ee41366badafa82d0ad507bd.png?ex=68cca5f8&is=68cb5478&hm=ca98d444c8ce68eb90e395ea39a457cf120b3583d351bc42effd37431060d2bd&
+
+
+[5/19/2023 8:40 PM] Narration
+The bullet was short, striking the pavement and ricocheting. This caused the man to flinch, quickly getting onto his feet and returning fire, three more shots range out from Jock as he completed his maneuver around the building.
+
+
+[5/19/2023 8:47 PM] Ghostgaze
+*Reacting swiftly to the incoming fire, Ghostgaze **dove for cover,** utilizing his training and instincts to seek shelter from the bullets. The rounds impacted the surroundings, sending fragments of debris flying through the air, a testament to the intensity of the exchange.*
+
+*The situation had **escalated,** and Ghostgaze now found himself engaged in a **fierce firefight.** His mind raced, assessing the new threat and calculating his next move. With determination burning in his eyes, he prepared to **retaliate,** knowing that his survival and the completion of his mission depended on his skill, precision, and ability to adapt to the rapidly changing circumstances.*
+
+
+[5/19/2023 8:49 PM] Narration
+Two more individuals came out from the front of the house. The three exchanging words before moving in more or less as a unit. Their tactics were lacking which was a testament to their lack of practice. Each of them armed with handguns.
+
+
+[5/19/2023 8:59 PM] Ghostgaze
+*Ghostgaze, assessing the situation and taking advantage of the diversion caused by the arrival of the additional individuals, swiftly moved to the **opposite side** of the house, planning to flank and surprise Jock. The dimly lit surroundings provided cover as he skilfully navigated his way through the shadows.*
+
+*Keeping a low profile, Ghostgaze silently closed the distance, his movements calculated and precise. With **each step,** he honed in on his target, his senses heightened, and his focus unwavering. The sound of rain masked his presence, ensuring that his approach remained undetected.*
+
+*As he neared Jock's position, Ghostgaze readied himself for the imminent confrontation. **The odds were against him,** but his training and experience instilled in him a relentless determination. He knew that every move had to be **executed flawlessly,** leaving no room for error this time.*
+
+
+[5/19/2023 9:05 PM] Narration
+The other two on the opposite house were looking down the walkway. With only one of them able to safely-ish peek and get a muzzle down range, the second one was more keen on watching their backs. That might present a problem, something out of Ghostgaze's control. Jock too was too focused on the alley way, even letting off some rounds to provoke any returned fire.
+
+
+[5/19/2023 9:10 PM] Ghostgaze
+*As Ghostgaze approached from the opposite side of the house, he carefully observed the two individuals stationed near the neighboring house. One of them, focused on peering down the walkway, presented a potential threat with a muzzle pointed in that direction. The other maintained vigilance, watching their backs, ready to react to any unexpected movements.*
+
+*Ghostgaze acknowledged the potential problem of the second individual being on guard and keeping an eye on their surroundings. His **priority** was to neutralize Jock, who remained fixated on the alleyway and had just fired off rounds to provoke a response.*
+
+*With calculated precision, Ghostgaze weighed his options and assessed the risks. He needed to exploit the momentary distraction caused by Jock's gunfire to gain the upper hand. Timing was crucial.*
+
+*Ghostgaze decided to **bide his time,** waiting for the opportune moment to strike. He remained hidden in the shadows, his focus unwavering as he observed the movements of both Jock and the two individuals near the neighboring house. Ghostgaze's **patience** and **tactical acumen** would determine his next move as he sought to regain control of the situation.*
+
+
+[5/19/2023 9:15 PM] Narration
+**"Come out already asshole, we know you're around here."** Jock would say, none of them wanting or really needing to move from their positions. Though it will come a time when they will.
+
+
+[5/19/2023 9:18 PM] Ghostgaze
+*Ghostgaze, hidden in the shadows, remained **silent and motionless,** his senses attuned to the situation unfolding before him. He knew that remaining hidden gave him a tactical advantage, allowing him to assess the enemies' positions and intentions.*
+
+*As Jock called out, taunting him to reveal himself, Ghostgaze maintained his composure. He understood the value of **patience** and **strategic thinking** in such a high-stakes situation. Ghostgaze knew that the time would come when the enemy would be forced to move from their positions, presenting an opportunity for him to strike.*
+
+*With his Midnight Edge handgun still at the ready, Ghostgaze analysed the surroundings, looking for any **advantageous positions.** He carefully calculated his next move, preparing for the moment when he could regain control and turn the tables on his adversaries.*
+
+*Silently, Ghostgaze awaited the opportune moment to make his move, keeping his emotions in check and relying on his honed skills to outmanoeuvre and overcome his opponents. He knew that patience, timing, and precision would be the keys to his success in this dangerous game of shadows and wits.*
+
+
+[5/19/2023 9:21 PM] Narration
+**"Go get the shitbrain."** Jock would order.
+**"How about you do it big mouth?"** The other guy holding the other wall would bark back. They were now bickering like children.
+
+
+[5/19/2023 9:26 PM] Ghostgaze
+*As Jock and the other guy engaged in their petty bickering, Ghostgaze seized the opportunity to strike. With his keen hearing, he heard their voices echoing through the alley, **pinpointing their locations.** Taking advantage of their distraction, he swiftly moved into position, ensuring proper __breath control__ and __steadying his aim.__*
+
+*With precision, Ghostgaze **emerged** from his concealed position, **quickly firing off his remaining 8 bullets towards their side.** The gunshots echoed through the air, cutting through the tension and silencing their childish argument. Each shot was calculated, aimed at **incapacitating or neutralizing** his targets.*
+
+*The crack of gunfire filled the alley as Ghostgaze's bullets found their marks, **unleashing a flurry of deadly force.** The controlled bursts of gunfire ensured accuracy, as he **aimed to** disable his adversaries with swift and lethal efficiency.*
+
+
+[5/19/2023 9:26 PM] Ghostgaze
+https://tenor.com/view/deathgun-sao-deathgun-sao-sword-art-online-gif-26462598
+
+{Embed}
+https://tenor.com/view/deathgun-sao-deathgun-sao-sword-art-online-gif-26462598
+https://images-ext-1.discordapp.net/external/BRAZPZZjbUtpLCV1ZXOF8BIaY9KAM2kHkTL_yJFZbRM/https/media.tenor.com/Dz5YTywPg_YAAAAD/deathgun-sao.png
+
+
+[5/19/2023 9:30 PM] Narration
+Jock was zeroed immediately on the first shot. His head bursting from behind. The man on lookout was shot in the abdomen, folding upon himself and sprawling out on the ground, groaning. The third guy was shot in the leg, collapsed. **"Argh!"** The third man would cry, mag dumping in Ghostgaze's direction.
+
+
+[5/19/2023 9:33 PM] Ghostgaze
+*Ghostgaze swiftly took cover, utilizing the environment to shield himself from the onslaught of bullets. His training kicked in, allowing him to assess the situation and plan his next move. He remained calm and focused, gathering information and formulating a strategy to neutralise the remaining threat.*
+
+
+[5/19/2023 9:34 PM] Narration
+The bullets were wild and unaimed. He quickly ran out of bullets. Even hearing the dry clicks of his kinetic handgun
+
+
+[5/19/2023 9:37 PM] Ghostgaze
+*As the barrage of bullets ceased, **Ghostgaze seized the moment to take action.** With calculated speed, he **abandoned** his cover and **closed the distance** to the wounded third man. Discarding the empty magazine from his Midnight Edge handgun, he smoothly retrieved **a fresh single-stack magazine** from his gear, swiftly reloading his weapon in a seamless motion.*
+
+*With his weapon at the ready, Ghostgaze unleashed a barrage of three precise rounds towards the injured assailant. The gunshots reverberated through the air as the bullets found their mark.*
+
+
+[5/19/2023 9:37 PM] Ghostgaze
+https://media.tenor.com/u3azQsuPm0QAAAAC/die-gun.gif
+
+{Embed}
+https://media.tenor.com/u3azQsuPm0QAAAAC/die-gun.gif
+https://images-ext-1.discordapp.net/external/bRRyZuFCzOOXMT5s9KPTYDmn6fET1V92I1qu4E0ZtiI/https/media.tenor.com/u3azQsuPm0QAAAAC/die-gun.gif
+
+
+[5/19/2023 9:39 PM] Narration
+And down went the last one... Hopefully.
+
+
+[5/19/2023 9:43 PM] Ghostgaze
+*With the immediate threat neutralized, Ghostgaze shifted his attention to the wounded assailant who lay writhing on the ground, clutching his abdomen. Recognizing the man's inevitable fate and to end his suffering, Ghostgaze made the decision to deliver **a swift and merciful coup de grâce.***
+
+*Aiming with precision, he discharged another round from his Midnight Edge handgun, the bullet finding its mark as it pierced through the assailant's head. The man's body fell still, life extinguished, **granting him release from his pain.***
+
+*Taking a moment to assess the situation, Ghostgaze confirmed that the immediate danger had been eliminated. With **five bullets** remaining in his magazine, he retained a measure of ammunition to confront any further challenges that may lie ahead.*
+
+
+[5/19/2023 9:43 PM] Ghostgaze
+https://media.tenor.com/TWqmlMI_xM0AAAAC/gun-anime.gif
+
+{Embed}
+https://media.tenor.com/TWqmlMI_xM0AAAAC/gun-anime.gif
+https://images-ext-1.discordapp.net/external/XfJJvN7Gc80iNwMLuiFLtV5kBJ1kgNWd3DGjhwM-6XU/https/media.tenor.com/TWqmlMI_xM0AAAAC/gun-anime.gif
+
+
+[5/19/2023 9:44 PM] Narration
+He was now left with the bodies of the dead and the house in question.
+
+
+[5/19/2023 9:49 PM] Ghostgaze
+*After disposing of the immediate threats, Ghostgaze turned his attention to the darkened house, where his **primary target** likely awaited. The absence of light worked to his advantage, aided by the **enhanced vision** provided by his mask, which allowed him to navigate the darkness with a crimson glow.*
+
+***However,** he remained mindful of the potential risk of his red lenses giving away his position. Ghostgaze understood the importance of maintaining stealth and staying undetected. He moved cautiously, utilising cover and shadows to minimize the chances of being spotted by anyone who might be inside.*
+
+*As he approached the house, he carefully **assessed** the entrances and windows, searching for any signs of movement or activity. Ghostgaze remained **focused** and **alert,** ready to adapt his strategy based on the information he gathered.*
+
+***The mission was far from over,** and Ghostgaze was determined to complete his objective, taking care to proceed with calculated precision while ensuring he remained hidden in the shadows.*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109296753485811732/screenshot-2014-08-20-01-23-10.png?ex=68cc0ddb&is=68cabc5b&hm=a66690c8ff0b104219750da0cd450e44984de2edb557c63f8b19d1d6d1c699ad&
+
+
+[5/19/2023 9:51 PM] Narration
+The front door was left wide open. No movement could be seen or heard.
+
+
+[5/19/2023 9:53 PM] Ghostgaze
+*Ghostgaze approached the open front door cautiously, his senses **heightened** and his **Midnight Edge** handgun held at the ready. The lack of movement or sound inside the house added an eerie stillness to the air, intensifying the tension that hung in the atmosphere.*
+
+*Keeping his steps light and deliberate, Ghostgaze entered the house, scanning his surroundings with his keen eyesight. The interior was dimly lit, the absence of power rendering most of the rooms in darkness. He relied on his mask's **red vision** to navigate the space, the crimson glow casting an otherworldly hue over his surroundings.*
+
+*Every step was measured, every corner carefully checked. Ghostgaze moved with a **methodical approach,** ensuring he left no room for surprises. His primary target could be anywhere within the confines of the house, and he remained alert to any signs or hints that would lead him to his quarry.*
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109297834366357634/sword-art-online-sword-art-online-ii-death-gun-sword-art-online-wallpaper-preview.png?ex=68cc0edd&is=68cabd5d&hm=45aacdc66075f5fa3f81fced0ad938867e84622c1937646264c41e0eba64321c&
+
+
+[5/19/2023 9:55 PM] Narration
+The first floor was clear. It was obviously lived in by all the members. Now, it was second floor that needed to be cleared. The boards of the stair case looked worn and splintered.
+
+
+[5/19/2023 9:57 PM] Ghostgaze
+*Ghostgaze ascended the worn and splintered staircase, his movements **deliberate** and **calculated**. Each step was placed with care, aimed to avoid the creaking boards that threatened to give away his presence. **The tension** in his muscles remained, a constant reminder of the task that lay ahead.*
+
+*Reaching the top of the staircase, Ghostgaze saw what?*
+
+
+[5/19/2023 9:57 PM] Narration
+A hallway, leading to three rooms. One on the left, another on the right and the last one furthest down.
+
+
+[5/19/2023 9:58 PM] Narration
+All the doors but the last door was open.
+
+
+[5/19/2023 9:59 PM] Ghostgaze
+*Ghostgaze aimed to approach each room with deliberate caution, his senses heightened and his movements calculated. The first room on the left received a thorough but swift sweep, his trained eyes scanning for any signs of his target.*
+
+
+[5/19/2023 10:00 PM] Narration
+Clear.
+
+
+[5/19/2023 10:00 PM] Ghostgaze
+*Satisfied that it was clear, **he moved on.** In the second room on the right, Ghostgaze treaded softly, his steps almost imperceptible. He meticulously surveyed the area, his focus honed on detecting any potential threats.*
+
+
+[5/19/2023 10:02 PM] Narration
+Clear
+
+
+[5/19/2023 10:04 PM] Ghostgaze
+*Finding no immediate danger, **he pressed forward, keeping his guard up.*** 
+
+*With careful precision, Ghostgaze advanced towards the **last open door** at the end of the hallway. __Every step was measured,__ his instincts guiding him. His hand rested on the doorknob, his grip firm yet controlled. He paused for a moment, **preparing himself for what might lie beyond.***
+
+*Silently, he turned the doorknob, inching the door open with precision. Each movement was deliberate, ensuring **minimal sound** and **maximum awareness.** Ghostgaze's eyes scanned the darkness within, his senses attuned to the slightest hint of movement or presence.*
+
+
+[5/19/2023 10:05 PM] Narration
+There was a desk, at the end of the room.. Our target is underneath it.
+
+
+[5/19/2023 10:08 PM] Ghostgaze
+*Ghostgaze's keen eyes swept the room, taking note of the desk at the end. Intuitively, he sensed that his target was **hidden beneath it.** He moved with controlled precision, his steps **light** and **deliberate,** as he closed the distance to the desk.*
+
+*With a swift yet calculated movement, Ghostgaze knelt down beside the desk, his senses heightened. He could feel the tension in the air, knowing that the moment of confrontation was imminent. His hand instinctively reached for his Midnight Edge handgun, ready to draw it if necessary.*
+
+*Peering underneath the desk, who did he see?*
+
+*Knowing that the element of surprise was on his side, Ghostgaze planned his next move.*
+
+
+[5/19/2023 10:11 PM] Narration
+He'd see
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A fucking bomb.
+
+**beep beep beep beep beep beep** 
+**THE LIGHT TURNED FROM YELLOW TO RED. GHOSTGAZE NEEDED TO MOVE AND QUICK. THE WINDOW, THE WINDOW WAS HIS ONLY CHANCE OF SURVIVAL!**
+
+
+[5/19/2023 10:19 PM] Ghostgaze
+*As the alarming beeps filled the room and the light shifted from yellow to red, **__Ghostgaze's instincts kicked into overdrive.__** His training and experience allowed him to recognize the imminent danger—a bomb that threatened to engulf everything in its destructive power. Without hesitation, he knew he had to act swiftly.*
+
+*With adrenaline surging through his veins, Ghostgaze's mind raced, calculating his options. In that split second, he assessed the situation and identified the window as his only chance of survival. Without a second thought, he made a split-second decision and **__leaped towards the window, disregarding any concern for his own safety.__***
+
+*The glass shattered as Ghostgaze crashed through, embracing the chaos and uncertainty of his escape. He landed with a r**ough impact** on the other side, his body absorbing the shock as **he rolled** to minimize the force. Ignoring the pain, he swiftly rose to his feet, adrenaline propelling him forward.*
+
+*Sprinting away from the now-dangerous building, **__Ghostgaze pushed his body to its limits,__** each step driven by a desperate need to distance himself from the impending explosion. He focused solely on putting as much distance as possible between himself and the detonation site.*
+
+https://youtu.be/cJo0f6XXPPA
+
+{Embed}
+Garçons - Topic
+https://www.youtube.com/watch?v=cJo0f6XXPPA
+Rogue
+Provided to YouTube by DistroKid
+
+Rogue · Garçons
+
+Revelations
+
+℗ Garçons
+
+Released on: 2018-06-14
+
+Auto-generated by YouTube.
+https://images-ext-1.discordapp.net/external/UIvlM8W-rme5rn-_o0YrD3k0Cb2-C6EZTcU_WC556WE/https/i.ytimg.com/vi/cJo0f6XXPPA/maxresdefault.jpg
+
+
+[5/19/2023 10:19 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453110361788537/7.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453110361788537/7.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453110361788537/7.gif?ex=68cc9914&is=68cb4794&hm=ad011aeb966682c7a03455ccd0285043b109e6bcc5e7dac77af82824e9ff5673&
+
+
+[5/19/2023 10:20 PM] Ghostgaze
+https://tenor.com/view/jump-out-window-neilsmiles-jump-gif-14302333
+
+{Embed}
+https://tenor.com/view/jump-out-window-neilsmiles-jump-gif-14302333
+https://images-ext-1.discordapp.net/external/an0BJbirEO5FBELHBFzGhRGtfOQ5foAT46vDhtqVhq8/https/media.tenor.com/zFoWiggeekoAAAAD/jump-out-window-neilsmiles.png
+
+
+[5/19/2023 10:20 PM] Ghostgaze
+https://tenor.com/view/anime-run-run-run-away-gif-19851362
+
+{Embed}
+https://tenor.com/view/anime-run-run-run-away-gif-19851362
+https://images-ext-1.discordapp.net/external/TByBtNGFdV_5MJ_6qf95tZXQFWZhp_wyn8sfrcgMh98/https/media.tenor.com/V2FWyvBLJ0kAAAAD/anime-run-run.png
+
+
+[5/19/2023 10:25 PM] Narration
+The house would detonate, exploding violently as rubble mixed with the rain. The block illuminating as the flame engulfed the remains of the structure.
+
+
+[5/19/2023 10:32 PM] Ghostgaze
+*As the house succumbed to the detonation, an explosive blast ripped through the air, engulfing the structure in a fiery inferno. Debris and flames soared into the night sky, painting a vivid and destructive tableau. The force of the explosion reverberated through the area, shaking the ground and echoing with a deafening roar.*
+
+*Ghostgaze, having narrowly escaped the blast, stood amidst the chaos, his eyes fixed upon the burning wreckage. The flickering flames illuminated his **expressionless mask,** casting an eerie glow upon his face. Raindrops mixed with smoke and ash, as if mourning the mission's failure, as they fell upon the scorched earth.*
+
+*Realising that his target had not been eliminated, Ghostgaze's stoic demeanour masked the **frustration** that simmered beneath. The failure weighed heavily upon him, the consequences of this mission extending beyond the remnants of the destroyed house. He knew he would have to retreat, reassess his strategy, and delve deeper into the shadows to pursue his elusive quarry. But for now, he needed to get away.*
+
+*As the flames continued to devour the remains of the house, **Ghostgaze retreated into the darkness,** disappearing like a wraith into the night. The rain washed away any trace of his presence, leaving behind only the smouldering wreckage as a testament to his thwarted mission. With determination burning within him, Ghostgaze would retreat, recalibrate, and prepare for the next encounter in the future, relentless in his pursuit of the target that had eluded him. **However,** this will be put on a hold for now.*
+
+
+[5/19/2023 10:32 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453110743466065/6.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453110743466065/6.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453110743466065/6.gif?ex=68cc9915&is=68cb4795&hm=2a9606829d6e8ffd4c703973588b01c5d7fdb30a6c0e8e2332c87f99506d076b&
+
+
+[5/19/2023 10:52 PM] Narration
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1107821899649646717/1109312633896718346/HG.png?ex=68cc1ca5&is=68cacb25&hm=9e0e292872c5d45ad72711d1a003ed8586679d26e2f550ede48772f86c8361b4&
+
+
+[5/20/2023 9:10 PM] Narration
+The day has elapsed to start anew. With the failure of killing Garrett Fletcher, Ghostgaze would find himself his head down on a bench in an abandoned park. All the equipment rusted out and the sound of distant gunfire and vehicles filled the air.
+
+
+[5/20/2023 9:14 PM] Ghostgaze
+*Ghostgaze, clad in his black tactical attire, sat alone on the worn-out bench, his head bowed in **contemplation.** The abandoned park around him seemed to reflect the desolation in his mind. The once vibrant greenery now **withered** and **neglected,** matching the atmosphere of failure that enveloped him.*
+
+*He took a moment to tune out the distant sounds of chaos, allowing his mind to drift and replay the events that led to his mission's failure. The memories of the exploding house and his narrow escape lingered, **fuelling a sense of frustration** within him. Ghostgaze knew that his target, Garrett Fletcher, still posed a threat, and his failure to eliminate him weighed heavily on his shoulders.*
+
+*As he raised his head, Ghostgaze's piercing gaze stared into the distance, his red-tinted mask accentuating the intensity of his eyes. He had grown accustomed to setbacks and challenges in his line of work, **but this one felt different.** It gnawed at him, urging him to seek redemption and revaluate his approach.*
+
+
+[5/20/2023 9:25 PM] Narration
+Ghostgaze's eyes began filling with new information.
+```
+bash v92.003.2994.1567
+Copy code
+$> ./connect -s bounty.mainframe.net -p 443 -u hunter182906 -pw ********
+Connecting to bounty.mainframe.net...
+Connection established.
+
+Update Pending...
+```
+Seems that there was an update to the bounty mainframe. he sould look into it!
+
+
+[5/20/2023 9:26 PM] Ghostgaze
+*Ghostgaze's eyes narrowed behind his mask as he processed the **new information** scrolling through his digital display. The update to the bounty mainframe piqued his interest, signaling potential opportunities to redeem himself. He swiftly analysed the provided code and instructions, committing them to memory...*
+
+
+[5/20/2023 9:41 PM] Narration
+```
+$> ./update
+Updating...
+Update Completed.
+
+$> ./checkstatus
+Status: Offline
+
+$> ./online
+Status: Online
+
+$> ./scanbounties
+Scanning bounties...
+
+1 new global bounty found: 
+1. Paige Underwood -  2,400,399 ₥R
+```
+
+
+[5/20/2023 9:53 PM] Ghostgaze
+*Ghostgaze's eyes narrowed behind his mask as the update **completed** and he **received** the new information. The significant bounty attached to the name **__Paige Underwood__** caught his attention, the reward amount of **2,400,399 ₥R** being remarkably high. It was a sum that surpassed typical bounties, piquing his interest and stirring a sense of motivation within him.*
+
+*Paige Underwood. The name resonated in Ghostgaze's memory, triggering a **faint recognition.** He knew he had heard that name before, and now it clicked into place. Paige Underwood was a prominent figure within the Horizon Grey faction, a group that the CCR labelled as systematic terrorists, while others viewed them as freedom fighters.*
+
+
+[5/20/2023 9:53 PM] Ghostgaze
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif
+
+{Embed}
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif
+https://media.discordapp.net/attachments/1106579895594790993/1107453113004195900/1.gif?ex=68cc9915&is=68cb4795&hm=50538b50e0c39c839d064a94e95b24f14ab36b97004d4d34608e22fc374525f8&
+
+
+[5/20/2023 9:55 PM] Ghostgaze
+*Ghostgaze knew that to effectively pursue Paige Underwood, he needed to gather as much **information** as possible. He understood the importance of thorough research and background checks to gain insights into her activities, affiliations, and **potential vulnerabilities.** It was a crucial step in formulating a well-informed approach.*
+
+
+[5/20/2023 10:00 PM] Ghostgaze
+*As he sat on the bench in the abandoned park, the distant sounds of gunfire and vehicles serving as a **constant reminder** of the world's unrest, Ghostgaze mentally prepared himself for the challenges that lay ahead.*
+
+
+[5/22/2023 1:02 PM] Narration
+Continuing @ https://discord.com/channels/1106367747727835206/1110246035382620272/1110251255714033694
+
+
+[1/4/2025 12:09 AM] Kaedues Staub
+*The clanking of metal rooftops and pounding of shingles resonates underneath Kaedues' feet as he runs across a large stretch of buildings in The Stacks. His eyes scan the area as he runs through it, still looking for any discrepancies to note down.*D
+
+
+[1/4/2025 11:45 AM] Narration
+A house nearby was smoked. Wait for that matter, an entire block was reduced to sunder. Exposed earth dominated his sight as his eyes landed on the site. Crushed and uneven asphalt and concrete created a cascading effect going down the crater.
+
+Was there some kind of bomb? Explosion? Smoke still emitted from hotspots that indicated that this was quite recent.
+
+
+[1/4/2025 12:46 PM] Kaedues Staub
+*Kaedues runs across old rooftops and the garbage that holds them together to move closer to the expired city block. He hops off of one rooftop, sliding down the dusty wall with hand and foot to control his descent. His landing is rough-- he falls onto his hands and knees, but is __unharmed__.*
+
+**"Ich.."** *He scoffs to himself. It's been a little while since he did any running...*
+*He doesn't let it get to him. Kaedues looks both ways before he crosses the street, just like Mom or Dad taught him, and then jogs over toward the rubble.*
+
+
+[1/4/2025 1:13 PM] Narration
+Kaedues approached what appeared the epicenter of the explosion. Half of the road was missing and what stood here once before was no more. Charred debris made up of what existed here. Below, some metal sheets rested along the sides and bottom with the combination of twisted metals. Nothing survived whatever transpired here.
+
+
+[1/4/2025 1:15 PM] hoffue
+nigga is in infamous
+
+
+[1/4/2025 1:15 PM] hoffue
+https://tenor.com/view/cole-mac-grath-infamous2-conductor-gif-19750657
+
+{Embed}
+https://tenor.com/view/cole-mac-grath-infamous2-conductor-gif-19750657
+https://images-ext-1.discordapp.net/external/ntHkIGiUXLn7gXD_YswNB3_uzGHNe_gFu39JgE040i0/https/media.tenor.com/JqldAXD01XcAAAAe/cole-mac-grath-infamous2.png
+
+
+[1/4/2025 1:24 PM] Kaedues Staub
+*Kaedues sits on that for a while. Well, he stands actually but you get the point.*
+
+*(Was this __one__ bomb? There's no way... but..)*
+*To Kaedues, yeah, it looks like one explosion. To be fair, it could be numerous small bombs. If you argued that to Kaedues though the significance would be lost on him.*
+
+*Kaedues looks around. Is there anyone up right now?*
+
+
+[1/4/2025 1:35 PM] Narration
+The streets were filled with people loitering, walking, and driving about. A moped like vehicle passed close to Kaedues and maneuvered at the last possible moment. Perhaps distracted by the aftermath himself. Across the street were a pair of kids throwing rocks from the rubble at passing vehicles and running off into the alleyways to avoid capture from enraged drivers. A woman stood on the corner of the intersection, smoking something and looking around with no real purpose in mind.
+
+
+[1/4/2025 1:43 PM] Kaedues Staub
+*Well, at least it's a __normal__ bombing.*
+
+*Kaedues decides to jog further down this street. Look for any other signs of interest that border this general location...*
+*The air smells, no, reeks, of carbon. Kaedues reaches into the deep pockets of his familiar faded green jumpsuit, and pulls out... A.. package of Leben's Caffeinated gum...*
+
+*(This... is a different pack of gum. I `get the feeling` that I bought this in Monita. But.. That feeling isn't.. Fuck, I wish I knew the words to describe it.)*
+*Anyway, he turns a corner and gets a view of a different angle of the neighborhood.*
+
+
+[1/4/2025 1:50 PM] Narration
+Surprise surprise, there was a small patrol of CCR lawmen in the area. A pair of two walking down the length of the street in the opposite direction. Looking for something more likely than not. Lawmen **don't** come down here willingly. A street vendor was in his little booth, restocking his display of shards. On the opposite side of the street were gang members. Nebula-5 was their little gang name. Nebula-5 ran this block and were eying the lawmen who were now looking towards them. Neither party decided to act on anything which was good for everyone involved. Getting the CCR riled up and/or having the entire gang descending in this area was not advantageous for anyone.
+
+
+[1/4/2025 1:53 PM] Kaedues Staub
+*Sure. Kaedues makes a note of the imaginary stand-off going on between those parties, and moves over to the street vendor.*
+**"Hey. You in business yet?"** *He asks casually as he approaches the booth.*
+
+
+[1/4/2025 1:57 PM] Narration
+**"Always in business."** The man said. He regarded Kaedues with an inquisitive eye. That __hand__ of his looked expensive, very expensive. **"Got a new batch of shards. Anything you looking for in particular?"**
+
+
+[1/4/2025 2:09 PM] Kaedues Staub
+*Kaedues notices the man's eyes trace his hand. When he thinks about it, he __does not remember__ getting it implemented.*
+
+
+[1/4/2025 2:09 PM] Kaedues Staub឵
+*`The surgery took place aft-`*
+
+
+[1/4/2025 2:09 PM] Kaedues Staub
+*(That makes no sense. I would remember how it felt.)*
+
+**"..First time buyer. The hand is my first prosthetic, and I didn't even want it to come to that."** *He sighs, already feeling like an asshole before even asking his question.*
+**"Do you know who engineered these chips you're selling?"** *He asks. Kaedues crouches down to get a look at one or two. Knowing Haven Heights, these things probably have brands or labels to 'verify' their quality. Wouldn't put it past a street artist to sign some of the shards he makes.*
+
+
+[1/4/2025 2:30 PM] Narration
+**"Prosthetic?"** The vendor seemed to recoil at the phrase. Must be talking about his new chrome! **"Eh, mixed assortment. Some from Jinxsoft, Some PrismaLogic... QuantumMesh..."**
+
+
+[1/4/2025 2:30 PM] Narration
+These *seemed* legit. Though, unless Kaedues was a shard wizard, he probably wouldn't know what each does without inqurying or slotting them to fuck around and find out.
+
+
+[1/4/2025 2:40 PM] Kaedues Staub
+**"..So you know *distributors*."** *Kaedues says and crosses his arms. Kaedues is many things, but cybernetics is distinctly far from his realm of expertise. Why..? He never asked himself that question. Just always seemed out of place.*
+
+*Kaedues sighs. Something about what he's about to do strikes him as a bad idea, but maybe the risks outweigh the odds.*
+**"Look, I'm gonna be real with you. I woke up with this."** *He wiggles his cybernetic fingers around.* **"I do not know.. who installed it, or why.."**
+*Stating it like this forces an impression onto Kaedues. The impression that `he is lying`. If the vendor is perceptive, he might pick up on this too.*
+
+**"I want to find someone who can tell me what kind of tech it is. You know anyone like that?"**
+
+
+[1/4/2025 2:50 PM] Narration
+**"That's no Gutterware you got. Some serious chrome you sporting."** He commented. He glanced down the road, the CCR were no longer around as his attention went back towards Kaedues. **"I could help you out, but I need to know what kind of man you are before I do. Something to make it worth my while."**
+
+
+[1/4/2025 2:54 PM] Kaedues Staub
+*Kaedues nods. quickly. This is a situation he can make good light out of.*
+**"Sure. You got anything you need done? I do just about anything, save any thing that deals with this kind of thing."** *Kaedues explains.*
+*(A job would be perfect. I need to make sure this guy is legit.)*
+
+
+[1/4/2025 3:01 PM] Narration
+**"Anything? Shit kid, you're no joke, are you?"** He seemed shocked by Kaedues's willingness to do just about anything. **"How's this... Get those scrubs to find a new spot to loiter."** He'd gesture to those goons across the street with his eyes. **"Don't like having any authority driving customers away from the biz. Do this, and I'll make a call to put you in touch with my contacts."**
+
+
+[1/4/2025 3:02 PM] Narration
+**"Shit, if you manage to get them to fuck off I could actually make a profit this week!"**
+
+
+[1/4/2025 3:07 PM] Kaedues Staub
+*Kaedues takes just a moment to look over at Nebula-5 nearby, to get an idea of what kind of goons they are. Are we working with an iconic duo, maybe even a titular trio?*
+
+
+[1/4/2025 3:12 PM] Narration
+There were two goons. Lounging about around a stack of crates. The one sitting on the top most crate was cat calling a woman who was carrying her infant child. They were armed metal weapons. One carrying a angled pipe and the other appeared to have a knife in his waistband. The one leaning against the wall laughed as the woman glanced towards them with disgust.
+
+
+[1/4/2025 3:16 PM] Narration
+Most people weren't armed with guns in Haven Heights. Primarily, they dealt with melee weapons.
+
+
+[1/4/2025 3:19 PM] Kaedues Staub
+**"I'll be right back."**
+
+*Kaedues approaches the two goons. An uncertain churning sensation rises within him.*
+https://www.youtube.com/watch?v=LCLiAoXjmx4
+
+{Embed}
+Invader 303
+https://www.youtube.com/watch?v=LCLiAoXjmx4
+Invader 303 - In The Hall of Factory King (SANABI OST)
+SANABI is an exhilarating stylish dystopian action-platformer.
+Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.
+
+SANABI soundtrack is a mix of synthwave bass and drum machines, retro lofi sound, dirty and raw cyberpunk synthes...
+https://images-ext-1.discordapp.net/external/UUNsppHc2rCuxFVWU5_ReyNyuGtIH0cM2Db97Teswjw/https/i.ytimg.com/vi/LCLiAoXjmx4/maxresdefault.jpg
+
+
+[1/4/2025 3:32 PM] Narration
+The two were still chuckling from the reaction they gotten from the mother that was now vanishing in the crowd until the one on the wall saw Kaedues approaching them directly. **"Haha—"** His smile fell. Who the hell was just approaching them like they had biz with them? He'd nudge his partner on the crate that was still laughing which prompted him to stop and pay attention. The guy that was leaning on the wall stood up and took one step forward, ready to meet this guy. He moved his jacket, brandishing his knife.
+
+https://tenor.com/view/parasyte-lock-in-locked-in-serious-meme-gif-5534810714910553671
+
+{Embed}
+https://tenor.com/view/parasyte-lock-in-locked-in-serious-meme-gif-5534810714910553671
+https://images-ext-1.discordapp.net/external/ccT7qwNA5mIphW2ueQ6dUsyyQyzcbPDycNABEcHXvQ8/https/media.tenor.com/TM-ZBUFE9kcAAAAe/parasyte-lock-in.png
+
+
+[1/4/2025 3:42 PM] Kaedues Staub
+*Kaedues is not at all phased by the way this guy's looking at him. Not Kaedues' first run in with gangs like this.*
+**"Know a better place for you to keep eyes out, choom."** *Kaedues points at the man walking up. It's a little detail, but Kaedues continues approaching the guy even after he shows his knife. Until a reasonable distance is reached, at least.*
+
+
+[1/4/2025 3:45 PM] Narration
+**"Yeah, well we like being where we are at."** He said, his hand has yet moved to his waist for the weapon. Confidence that only urged his partner to hop down from the crate and join him at his flank. Resting the pipe along his shoulder. **"Got a problem?"**
+
+
+[1/4/2025 3:47 PM] Kaedues Staub
+**"I think __you__ do,"** *Kaedues says and nods towards the CCR lawmen nearby.* **"You like where you're at? Anything and everything you do goes back to their supervisor."**
+
+
+[1/4/2025 3:49 PM] Narration
+**"They know where they are at and so do we. This is __our territory__ so fuck off dust-eater."** The man stepped up towards Kaedues.
+
+
+[1/4/2025 3:54 PM] Kaedues Staub
+*Kaedues' cold stare narrows just a tad. He looks into the eyes of the approaching man, to get a read on him.*
+*(His confidence is showing. I can imagine a few ways he'd approach this situation. Actually...)*
+
+*He chews the gum. Somehow, the pressure makes it easier to process the situation. Is this always how it felt to deal with these people?*
+
+
+[1/4/2025 4:01 PM] Narration
+**"Did you not hear what I said?"** He'd now withdraw the knife from his waistband finally. His eyes now were looking around periodically. Stroking or 'grooming' his facial hair with his free hand as he did this.
+
+{Reactions}
+🤨 (3) knifeflint (2) bombasticsideeye (2) TACTICHAD (2) OKaedues (2) 🅰️ (2) 🇺 (2) 🇷 (2) ⁉️
+
+[1/4/2025 4:12 PM] Kaedues Staub
+*Kaedues sighs.*
+*(I can't go. I could try to find some other person with intel, but knowing this place, it won't be any easier than this.)*
+
+**"I guess I didn't,"** *Kaedues says. His legs part and his arms raise up to his face, obscuring it partially and protecting him from a few angles of attack.*
+*(My new prosthetic should be able to deflect a knife attack. It'd have to be.. what did he say? Gutterware? to break from that.)*
+
+
+[1/4/2025 4:12 PM] Kaedues Staub
+*His hands ball into fists, one finger at a time.*
+
+
+[1/4/2025 4:16 PM] Narration
+The guy chuckled, showing initial signs of relaxation as he glanced back at his buddy. But it was a ploy to throw Kaedues off as he quickly turned back towards Kaedues with a wide slash attack coming from above and intending to go diagonally across Kaedues' face.
+
+
+[1/4/2025 4:19 PM] Kaedues Staub
+*Kaedues strikes at the knife on reaction with his new cybernetic hand to disrupt this guy's balance. If it connects, he steps forward and pushes his weight into a punch with his right hand directed at the guy's nose. That kind of force would at least force the guy onto his back. Could also realistically break his nose.*
+
+
+[1/4/2025 4:26 PM] Narration
+The initial strike between the cybernetic hand and the knife left a spark. The weapon went wide and down. Leaving his face open for a strike. The impact against the man's nose sent him stumbling back. The tiny bolts holding his cybernetic nose together snapped and flew everywhere. Cybernetic hardware shattered and the large bulk of it fell from his face and began bouncing and dancing around as a single cable kept it connected to his cheekbones. He'd trip and bash his head off of the metal sheet walls. Before his destination was reached, he collided with his buddy who also stumbled and crashed into the crate.
+
+The man who got his deck forcefully rebooted was dazed his arms spread out and the knife dropped as he was rendered unconscious from the blow. His partner was trapped underneath his friend's weight so he wasn't much of a threat as he struggled to get out from under him.
+
+
+[1/4/2025 4:29 PM] hoffue
+https://tenor.com/view/senator-armstrong-metal-gear-rising-punch-punching-fling-gif-24582824
+
+{Embed}
+https://tenor.com/view/senator-armstrong-metal-gear-rising-punch-punching-fling-gif-24582824
+https://images-ext-1.discordapp.net/external/n4f1fR-fqTPcbE4ZMS5zzm3Uh9vYzdB4m-C5nqBWg4Y/https/media.tenor.com/8uNoClyIg6cAAAAe/senator-armstrong-metal-gear-rising.png
+
+
+[1/4/2025 4:30 PM] Kaedues Staub
+*Kaedues calmly walks forward to retrieve the knife from the space below the street thug. For now, he holds it with the blade forward. He is not yet aiming it anywhere.*
+
+**"You gotta carry him where we're going."** *Kaedues talks at the man beneath his friend.* **"You don't want me to take you."**
+
+
+[1/4/2025 4:33 PM] Narration
+**"H-hey easy choom... We didn't mean any problems.. Going somewhere, awesome!"** His buddy was extremely worried he'd be next to receive knuckles. Now that he was disarmed, he began pushing is unconscious friend off of himself. The half-alive individual rolled with his dead weight, now face down on the ground.
+
+
+[1/4/2025 4:37 PM] Kaedues Staub
+*Kaedues nods at the goon and looks at the nearest wall. It's a building.. some kind. Kaedues crouches down before leaping up, his feet grabbing onto the windowsil as a foothold. The top of the window, and then the roof, come next. Once he's up top, he looks down at the goon expectantly.*
+
+
+[1/4/2025 4:39 PM] Narration
+**"Choom, you expect me to get up there with him?!"** He asked incredulously as he pulled his friends into his arms.
+
+
+[1/4/2025 4:44 PM] Kaedues Staub (pinned)
+*Kaedues rolls his eyes.*
+**"Here."**
+*He generates a small text document containing the address of an abandoned multi-layer parking lot near here that would make a primo spot for any lookout gig. The document is then sent directly to the goon.*
+
+**"Don't come back unless you want to schedule an appointment with his ripperdoc."**
+
+{Reactions}
+verified_badge
+
+[1/4/2025 4:46 PM] Narration
+**"You're the man, th-thanks for the spot!"** He'd briskly but clumsily drag his companion down the street.
+
+
+[1/4/2025 4:49 PM] Kaedues Staub
+*Kaedues nods to himself. He looks at his cybernetic hand.*
+*(Guess it really is the whole nine yards. This thing doesn't even have a __scuff__.)*
+
+*He turns back and approaches the street vendor with a neutral wave.*
+**"Scared them off and gave them a reason to go someplace else. Only a moron would come back to this spot."**
+
+
+[1/4/2025 4:54 PM] Narration
+**"Scared them off? Kid you scarred them for life!"** He'd exclaim in a hushed tone. He would gesture his head to the door behind him. **"Behind the shelf on the right..."** He'd whisper. **"Since you took care of those thugs, why don't you help yourself to some overstock!"** He'd say loud enough for everyone to hear. **"Get going and don't show your face to any of those gang members anytime soon."** His voice lowered.
+
+
+[1/4/2025 4:57 PM] Kaedues Staub
+**"Thanks. I appreciate it. Listen, I'm going to give you my contact info,"** *Kaedues says as he navigates to the spot the vendor mentioned and takes a look.* **"If you know anyone that needs something done, tell them to call the Caliber Man. I usually work for Micros, though."**
+
+
+[1/4/2025 5:03 PM] Narration
+With a nod the vendor trained his eyes forwards, returning to his regularly scheduled program. Kaedues passed through the doorway and went right. There was a shelf... Just an ordinary shelf with several boxes of used shard pieces. The order seemed normal? Aside from one box that was isolated from the rest.
+
+
+[1/4/2025 5:17 PM] Kaedues Staub
+*Kaedues inspects box that stands out from the rest. He opens it up and takes a look inside..*
+
+
+[1/4/2025 5:29 PM] Narration
+It's empty. However, the most peculiar thing was the bottom had a small ring that stood upright; A pin that could be pulled.
+
+
+[1/4/2025 5:30 PM] Kaedues Staub
+*Kaedues reaches into the box and pulls the ring.*
+
+
+[1/4/2025 5:36 PM] Narration
+The moment the ring is pulled, the shelf begins to sink. A false wall in a sense! Beyond the shelf was a lit staircase that led off to somewhere underground. Just who was that vendor?
+
+
+[1/4/2025 5:45 PM] Kaedues Staub
+*Kaedues looks back towards the vendor, and then into the hall where the stairs are. He opts to move down the hallway, as well.*
+
+
+[1/4/2025 5:47 PM] gardengnostic2
+https://tenor.com/ipzQHDhJZC5.gif
+
+{Embed}
+https://tenor.com/view/eminem-marshall-mathers-marshall-slim-shady-houdini-gif-6923059536681358277
+https://images-ext-1.discordapp.net/external/J9z391fnFyh-YjGmnQ0qtEGd2tJrI5e1kIQhfxw4Oj8/https/media.tenor.com/YBOl9_rF08UAAAAe/eminem-marshall-mathers.png
+
+
+[1/4/2025 5:47 PM] gardengnostic2
+this how he went  down the stairs
+
+
+[1/4/2025 5:55 PM] Narration
+Continuing @ https://discord.com/channels/1106367747727835206/1114361342430822460/1325236016193474560
+
+
+[1/22/2025 4:16 PM] Kaedues Staub
+*`Kaedues emerges from the Metro with a sigh. Breathing in the air out here helps him process what just transpired. Normally, something like this would seem irrelevant to Kaedues. He tries to figure out his excuse, why he reached out, but there isn't a reason. Not one he knows, anyway.`*
+
+*`In a similarly undefined way, Kaedues finds himself reaching into his pockets. His fingers trace the inside to find that apart from his caffeinated gum, they are empty.`*
+
+*`They're empty.`*
+
+*`It was like only an instant passed, but it was a minute or two. He scours his pockets, turns them inside out to find it. It's supposed to be in there.`*
+*`The back of his head urges him to check his boots, as is the next ordered step. He listens, and pulls Grace's chip drive from his right pocket...`*
+
+*`He holds the drive up to his face. This little detail is actually significant to Kaedues. He feels around in his pocket and notices that the tape holding his pocket together has been ripped open.`*
+*`(I ripped it open. I had to have ripped it open. Why don't I remember doing that?)`*
+
+
+[1/22/2025 4:16 PM] Kaedues Staub
+https://tenor.com/view/death-anime-listening-im-go-gif-19412813
+
+{Embed}
+https://tenor.com/view/death-anime-listening-im-go-gif-19412813
+https://images-ext-1.discordapp.net/external/qQDAZrt4XmSeAOEolp3wIfq9JNZfNYuV6J1N3udMLUo/https/media.tenor.com/dzenlM_bTtYAAAAe/death-anime.png
+
+
+[1/22/2025 4:32 PM] Kaedues Staub
+*`Kaedues pockets Grace's chip drive, making sure to patch the hole in his pocket with the already available tape.`*
+*`Or well, he tries to. The tape's adhesive end completely wore out, which is another thing that irks Kaedues. He stuffs her chip drive in his other pocket, the left one.`*
+
+*`While he makes an effort to figure all of this out, Kaedues moves towards his home.`*
+*`(I took the drive from Grace's desk, and brought it home. After that, I picked up Gavyn's... well, my van, and drove to Monita.) Eyebrows furrowing..`*
+
+*`(I don't remember the checkpoint being difficult. Actually.. I don't remember the checkpoint at all.)`*
+
+*`Kaedues makes an attempt to review the memory he allocated earlier during the conversation with Gavyn now, but nothing shows. He doesn't remember... remembering? What kind of ass-backwards line of thought is this, anyway?`*
+https://www.youtube.com/watch?v=L0Ey2J5Nr98
+
+{Embed}
+Invader 303
+https://www.youtube.com/watch?v=L0Ey2J5Nr98
+Stabilization. Arturia MicroFreak. Zoom ms 70-cdr. Dawless Ambient.
+A new fast and meditative outdoor jam session.
+
+Lately I've been getting into the sound of electronic music from the late 90's and early 00's. In particular various downtempo, ambient and tracker music and of course video game soundtracks. The main source of inspiration is the ambient soundtrack from the first part of Deus Ex. 
+I like to experim...
+https://images-ext-1.discordapp.net/external/vX9yNpio6jThv3SgHrvVNsX0WtPYeiTnb4O-EaOMcS0/https/i.ytimg.com/vi/L0Ey2J5Nr98/maxresdefault.jpg
+
+
+[1/22/2025 4:45 PM] Kaedues Staub
+*`Kaedues finds himself at his van already. He opens the door and looks inside. His eyes scan the dashboard, and then the passenger seat, where he finds Grace's glasses. He picks them up and stuffs them into his right pocket-- the hole isn't nearly big enough to allow them to pass through.`*
+
+*`Kaedues enters the van now and closes the door. It's enough of a barrier for the ambient noise of Haven Heights to pilter out, and his thoughts to appear clear.`*
+
+*`(...)`*
+
+*`He's looking at Hanson Greaves' contact information. Kaedues stares in silence at the interface for a long time. This is one of the things he does not remember doing. Giving and receiving contact information is something he only does after acknowledging someone as trustworthy.`*
+
+*`(I should call this person. They could know a lot about my situation. It's possible they could have caused it.. but I doubt that. I don't know how anyone would cause my situation.)`*
+
+*`Kaedues balls his hands into fists and makes the call to a Hanson Greaves.`*
+
+
+[1/22/2025 9:27 PM] Narration
+It would ring... ring... ring... ring... ring... `No answer....`
+
+{Reactions}
+🤨 (2) babyphone (2)
+
+[1/22/2025 9:29 PM] Kaedues Staub
+`That isn't going to cut it. He dials the number again as soon as he hears the sequential beeping signifying that Hanson did not pick up.`
+
+
+[1/22/2025 9:35 PM] Narration
+Attempt number two; it would begin to ring. The process continued; the rings continued, and the disconnect tone repeated itself... But before __anything__ else Hanson began calling Kaedues back!
+
+
+[1/22/2025 9:40 PM] Kaedues Staub
+*`He picks up. As soon as he can hear the static noise in the background, Kaedues speaks.`*
+**`"Who am I?"`** *` Kaedues asks. An odd question no matter how you slice it, but it is confidently delivered.`*
+
+
+[1/22/2025 9:45 PM] Hanson Greaves
+There was silence on Hanson's end for a moment...  `"Well, considering I have your caller ID set as, Kaedues. I would assume you are Kaedues."` This smart mother fucker...
+
+{Reactions}
+nerd_glasses (2)
+
+[1/22/2025 10:02 PM] Kaedues Staub
+**`"You employed me five days ago. I now have four thousand micros in my account, my-- MY van in mint condition, and a prosthetic hand that could fetch me a down payment on a house in Fairview if I sold."`**
+
+*`Kaedues breathes in and out.`* **` "What did I do for you?"`**
+
+
+[1/22/2025 10:06 PM] Hanson Greaves
+Another brief pause, a woman's voice could be heard in the background.? `"Oh, yeah. You came to Monita for work, Gavyn sent you to do some shippin' and work. You don't remember? You killed it out there!"`
+
+
+[1/22/2025 10:10 PM] Kaedues Staub
+**`"I'm sure I had a lot of product to ship during the lockdown."`** *` Kaedues has a sharp tinge to his tone.`*
+
+
+[1/22/2025 10:12 PM] Hanson Greaves
+`"High value cargo pays more... You did exceptional work on the small-time stuff, had to put you on hazard shipments... What's with the interogation? Bumped your head or something?"`
+
+
+[1/22/2025 10:23 PM] Kaedues Staub
+*`Kaedues pauses for a moment, which more or less comes off as admittance. He hesitates, and finds that he doesn't know what to say. Hanson's question hit the nail on its head for sure, but is honesty a good thing?`*
+
+
+[1/22/2025 10:23 PM] Kaedues Staub឵
+*The question is actually relatively easy to answer.*
+**"Something like that. Your story matches up with how I remember it."** *He says plainly.*
+
+
+[1/22/2025 10:25 PM] Hanson Greaves
+`"I don't know why it wouldn't!"` He'd exclaim, `"But, hey, great work again. I am sure there will be more opprotunities in the future, should we need your digits, eh? — Huh? Ok.. Got to hit the road, got biz in Fairview that I got to scramble."`
+
+
+[1/22/2025 10:28 PM] Kaedues Staub
+**"Sure."**
+*Kaedues hangs up. He sits a while now in his van. He feels off. He doesn't know why he placed the call in retrospect, as if Hanson would have the answer. Believing that he is unrelated doesn't ease the tension, though. And...*
+
+*His hand slowly drifts up, grasping his head. There's a dull pain swirling around, a headache.* **"Ugh.."**
+
+
+[1/22/2025 10:39 PM] Narration
+A phone call was inbound! From the Gavynator!
+
+
+[1/22/2025 10:40 PM] Kaedues Staub
+*Kaedues finds himself answering the call before he is fully prepared to.* **"Hey,"** *He says with a sputter from his throat.*
+
+
+[1/22/2025 10:41 PM] Gavyn
+`Hey man, you doing better?"` He inquired immediately.
+
+
+[1/22/2025 10:44 PM] Kaedues Staub
+**"Yes. I made enough for the day already. Did you need something?"** *He answers just as quickly as Gavyn asked.*
+
+
+[1/22/2025 10:46 PM] Gavyn
+He wasn't ready for such a punctual response, but he should be getting used to it.  `"—Me, no. But I got a message from a co-worker of yours? Askin' about you."`
+
+
+[1/22/2025 10:47 PM] Kaedues Staub
+**"A coworker?"** *he follows up. He sounds confused.*
+
+
+[1/22/2025 10:47 PM] Kaedues Staub
+**"...oh."** *A thought dawns on Kaedues.*
+
+
+[1/22/2025 10:49 PM] Gavyn
+`"I think he said his name was James?"`
+
+
+[1/22/2025 10:49 PM] Kaedues Staub
+**"What did he have to say?"**
+
+
+[1/22/2025 10:50 PM] Gavyn
+`"Not much to me, just told me he did not have your contact and wants to talk to you at the shop you worked at?"`
+
+
+[1/22/2025 10:53 PM] Kaedues Staub
+**"Alright. Thanks, Gavyn. I need to kill a little time anyway, so I'll go check it out."** *Kaedues replies.* **"Is there anything else you needed?"**
+
+
+[1/22/2025 10:56 PM] Gavyn
+`"Yeah if you're up for it. With the lockdown lifted, we are working OT to fulfill orders. Could use a pair of hands if you're free later tonight."`
+
+
+[1/22/2025 10:57 PM] Kaedues Staub
+**"I can make that happen. When do you need me in by?"** *Kaedues asks promptly!*
+
+
+[1/22/2025 10:58 PM] Gavyn
+`"8 if you can manage it. We close up shop at 10 and I know we will be running behind."`
+
+
+[1/22/2025 11:05 PM] Kaedues Staub
+**"I'll be there. Thanks again for the opportunity."** *With that, Kaedues hangs up.*
+
+*He reaches into his back pocket for the van's keys and slots them into the ignition. With one (satisfying) turn, the van hums to life and is ready to move.*
+**"I hope this isn't going to go how I think it's going to go.."** *Kaedues groans and drives out of the little inlet that leads to his dilapidated home. A piece of caffeinated gum is plucked from its silvery confines and placed onto Kaedues' tongue. The nourishing feeling he gets is just what he needed after everything that happened.*
+
+*With that settled, Kaedues begins the drive over to Shop 1113.*
+
+
+[1/22/2025 11:17 PM] Narration
+Continuing @ https://discord.com/channels/1106367747727835206/1107830866064982077/1331839597738721330
+
+
+[3/13/2025 6:24 PM] Narration
+Everything was black. There was no light, no sound, nothing tactile to perceive. It was as if existence ceased to exist. A state in which there is no life and no death. Limbo as some would call it, a gateway to others.
+
+No matter what defined this condition, the fact of the matter was that Zendo was not **Dead** as some would have hoped him to be. His life support system held fast, holding him in a comatose-like state in a bid protect him.
+
+With a slow and steady cresendo, elements of a world outside the abyss started to become noticable. 
+
+**Sound**: The sound of distant sirens dominated a large swath with more minor auditory details such as shuffling, the wind hollowing through something enclosed and whispers that were intelligenable to him.
+
+**Tactile **: His gravitational orientation was coming to him; He was on his back. The surface beneath was extremely uneven, uncomfortable. Parts of his back were being discomfortably jabbed by something sharp. His right leg suspended more than his left, same with his arms as if he was black out drunk and passed out on a pile of guns. 
+
+**Smell**: The stench of his surroundings overwhelmed his nostrils. Something foul was perminating in the air.
+
+**"Sight"**: The sense of the void had begun the take on a different shade. Instead of black, a dark and rich purple dominated the space.. Then, the onboard life support system began the booting sequence for wakefulness...
+
+
+[3/13/2025 6:24 PM] Narration
+```ansi
+[== System Diagnostic: Netrunner Interface ==]
+[[1;34mBLOOD STATUS[0m] [1;32mGOOD[0m [1;90m[[0m[1;91mMONITORED[0m[1;90m][0m
+[[1;34mINJURY[0m]  [1;31mUNRESPONSIVE[0m [1;33m[AREAS: LEFT ARM][0m
+[[1;34mCONSCIOUSNESS[0m]   [1;31mREBOOTING[0m [1;33m[CAUSE: BLUDGEONING][0m
+[[1;34mCONDITION[0m]   [1;32mMODERATE[0m [1;90m[[0m[1;96mSEEK AID[0m[1;90m][0m
+
+**__>> INCIDENT OVERVIEW <<__**
+[1;34mNetrunner ID[0m: [1;35m[NONE][0m
+[1;34mTask[0m: [1;36mDIAGNOSTIC SCAN[0m - [1;33mDEFENDING SELF[0m on subject.
+[1;34mRecent Activity[0m: [1;31mCombat Against Assaliants[0m
+[1;34mDamage Analysis[0m: [1;92m[Multiple bruises and cuts from close-range attacks detected. Blood loss stopped via automated clotting agent. Left Arm failed connectivity,INJECTED WITH IV BY OUTSIDE AGENT][0m.
+
+**__>> ADDITIONAL NOTES <<__**
+[1;31mAutomatic Comatose Protocal Timeout, awaking end-user.[0m 
+[1;90mICE Protocal enabled[0m
+[1;33m68/72 onboard systems started successfully. Seek Aid for restoration[0m
+[1;33mAutonomous Assistant is Disabled due to corruption[0m
+```
+
+
+[3/13/2025 7:13 PM] Zendō
+As his diagnostics systems wakes him, the pain of his injuries return in conjunction. Wincing and curling in pain would be an appropriate response, had he had the energy to move. Its not just the pain he feels but the things he doesn’t. With his left arm he attempts to posture himself in an upright position but his arm falls further into the pile his lies on as if phasing through matter. Its then he realizes what his diagnostics warned him.
+
+**Failed Connectivity**. 
+
+The pain begins to swell just below his elbow and he realizes the blood. This wound needs to be cauterized and quick. With this he beings pulling himself from the ground feeling his way up whatever he’s inside of. 
+
+*’How am I still alive?’*
+
+
+[3/13/2025 7:29 PM] Narration
+His hand pressed against what appeared to be the ceiling above him. However, this ceiling shifted in response to pressure applied to it. Bright, white light streamed through the gaps where the ceiling pulled away from the walls.
+
+Describing the light as *'blinding'* would barely capture its intensity. After enduring the suffocating darkness for what felt like an eternity, the light offered a sense of closure amidst the confusion. He found himself in an enclosure with a moving ceiling that barely contained him. Interesting. 
+
+Where the light spilled in, he could discern the rust along the wall's edges—metal, decaying but still holding firm. The ceiling felt rough to the touch but wasn’t heavy; it had the texture of heavy-duty plastic, sturdy yet surprisingly pliable, certainly a lid. 
+
+His hand pressed up against the lid with more force, and the blinding light expanded; the sound of voices was unmistakable as the sound was able to travel freely inside the enclosure. There were people just beyond the walls he found himself in. All he had to do was free himself from the confines of his prison.
+
+
+[3/13/2025 7:41 PM] Zendō
+Grabbing the rusted edge of the container he props his weight against the wall to situate his feet underneath him. Able to get to his knees he looks over the edge to take in his surroundings.
+
+
+[3/13/2025 7:53 PM] Narration
+**"So, I told the guy. Kiss my chrome ass! There ain't no way I am gonna let you cheat out on my jumps."** Three guys were talking around a barrel used as a firepit. Using procured materials such as siding and furniture from nearby buildings. 
+
+The second guy changed the subject; as he spoke, he had an involuntary twitch... **"When do you think that choom will die? It ain't often you get garbage from Neon Kyrie. I can't stop thinkin' bout the money we'll get from sellin' his parts in the Metro, hehe!"**
+
+The third groaned, **"Come on, we should've just gone ahead and zeroed when they dropped him off... it's not like he can do anything."** Clearly, he was impatient and saw an immediate solution.
+
+The second guy interjected, **"Are you crazy?! What if he wakes up while you're wackin' em eh?? What will do then? Your knee is bad. Shit, my knee is bad!"** 
+
+The first guy saw the lid move, and then Zendo looked over the enclosure wall, which ended up being a trash dumpster. **"Uh... chooms..."**
+
+The second and third guys responded, increasingly upset since they had been arguing about this for a while now. When they saw the first man point behind them, the two looked at each other before glancing over their shoulders to see Zendo awake.
+
+**"Ah SHIT, let's Delta!"** The third one shoved the second into the barrel, knocking out a wooden table leg that was ablaze out of the barrel. The flame clung to the end of it like a match.
+
+The second man scrambled to his feet and pulled the first guy along. All three fled around the corner of the alleyway they were positioned at and down one of the many unknown streets.
+
+
+[3/13/2025 8:31 PM] Zendō
+Zendō postures himself against the wall of the dumpster takes a deep breath and attempts to toss himself over the edge. He rolls slowly over and lands flat on his back in front of the dumpster the barrel fire ahead of him. After letting out a loud groan a succession of quick small breaths of air escape his lips reacting to the pain in hopes to catch his breath. He rolls on his stomach and begins dragging himself towards the burning table leg.
+
+Once he get within distance, he stretches an arm out to grab it but just barely able to reach it with his fingers, he pulls it towards him. He sits upright and slides back towards the wall.
+
+Holding the table leg in his right hand, he glances back and forth between his missing arm and the fire ablaze in the other. With his teeth, he pulls the fabric of his robes back to expose the perfectly severed arm. Bringing the leg closer to it, he hesitates for a second, looks away and presses the piece to his arm. Screaming between clenched teeth he holds it as long as he can before almost losing consciousness to the pain. Angrily, he throws the leg as far from him as he can, wincing again from the injuries and clutching his stomach. He takes a breath and thinks, 
+
+*'Where do I go? Who can I trust? I know Hayate and I were at odds but this? This...this was beyond simple rivalry. This was betrayal.*
+
+His mind races with possibilities of his next steps. What options does he even have? 
+
+There is only one person he's sure he can trust right now and to get there he would have to return to the belly of the beast. **Yuzuki**
+
+*'She is the only one I can trust..but Im in now shape to make my way there now..I need help but who? Think Zendō, Think!'* 
+
+His mind runs as he hits the wall in frustration, again followed by caressing his waist from the pain
+
+
+[3/13/2025 8:41 PM] Narration
+It took much longer for Zendo's neural deck to fully initialize in his wake state. The mere thought of Yuzuki brought forth an unsettling and uncanny timing for the next event.
+
+He received notification after notification. They piled up as if someone was spamming him. Missed call after missed call. Message after message from the one-in-only **Yuzuki**.
+
+`"Where are you?"`..........`"Why haven't you come back with Hayate? Why is he not answering me?"`....`"What is happening, please..."`.....`"Did I do something wrong?"`....`"I'm sorry."`...........
+
+-# ................"We have to leave District 9... If you're still alive... I hope you can forgive me. I love you."
+
+That was the last message in the stack that bombarded him. Countless messages and about two dozen phone calls were missed from Yuzuki. The date timer indicates that her last message came in **last week**. The blood-clotting nanobots kept him alive for over a week. But the duration has left a long-lasting effect on his body. He was weak, hungry, and exhausted despite his extended slumber.
+
+
+[3/13/2025 8:52 PM] Zendō
+His face crunches in fury. His head shakes. 
+
+Thoughts race and the overwhelming-ness of it all calls for only one reaction. 
+
+"AGGHHHHHHHHHHH!!!"
+
+A primal, deep roar bursts from his chest. The anger, the betrayal, Yuzuki, his arm but on top of it...his Father. The weight is just too much to hold in. 
+
+He pushes the roar out with every lost breath leaving him coughing gasping for oxygen he falls to his side. 
+
+If anyone had been there to see this, no words would be needed. His intentions were written all of his face, his eyes burned with ***vengeance.***
+
+{Reactions}
+🥶 (2)
+
+[3/13/2025 9:00 PM] Narration
+Zendo's despair went without a reply. The world swallowed his cry in the vastness of the Shacks. There would be no one to care for him here. No one to hear his plea.
+
+## He. Has. No one. Left. ##
+
+And now, Zendo lies on his side, alone to boil, to mature these newly acquired feelings anew. The world's ambiance continued onwards, the flickering of the dying embers of the firepit accompanying the destructive symphony of life in Haven Heights.
+
+At the corner of his vision, his neural deck reminded him that he required medical attention or else soon there would be more at stake than his missing arm. The graphic showing the notification would glitch and fizzle out, only emphasizing the notification was prudent.
+
+
+[3/13/2025 9:31 PM] Zendō
+Climbing to his feet, using the wall as support, he slides against it until he gains some stability on his feet. When he is confident he can walk, he slowly makes his way to the alley entrance and looks up and down the street. He attempts to use his neural deck to search for a nearby Hospital. Hell, at this point, he'd even take a ripper-doc.
+
+
+[3/13/2025 9:38 PM] Zendō
+Normally, he'd hate to be in a place like this but today is not a day to be pretentious. With the state he's in, anything would help.
+
+
+[3/13/2025 9:50 PM] Narration
+Search results are slow to come in. Most were a hybrid of various phrases in different languages and special characters. One result returned to Zendo. However, there was no proper route to it, which should have been no problem since he had points A and B, two blocks north.
+
+Since Zendo was not in any position to survey his surroundings in greater detail. The most he would decern from his immediate area was that the streets were a mix of dirt roads and loose gravel. The sidewalks were not aligned beyond three squares and those who walked the sides of the road avoided Zendo and others didn't even look his way.
+
+
+[3/13/2025 9:58 PM] Zendō
+"Okay. North it is." He said to himself. 
+
+And he started walking. Every step a slow one. Every breath, a painful one but all it did was fuel his anger. Constant thoughts of His last moments. Even though they weren't clear it was enough. Flashes of Hayates face. Flashes of  the glint of a katanas blade heading towards him. More and more these thoughts purtruded his mind until he seen the moment he lost his arm. Almost reliving it he seen Hayate raise the blade as he reached for his Bo Staff and with a quick efficient swipe
+
+**black**
+
+Then rain...
+
+**black**
+
+his severed arm lay in front of him
+
+**black**
+
+the open wound where it was once attached...
+
+**BLACK**
+
+{Reactions}
+🔥 (4)
+
+[3/13/2025 10:03 PM] Zendō
+When he opened his eyes he was against a window in the street. Not long was he there, maybe a minute or two. He rose again fixated on his mission. 
+
+**Hayate**
+
+
+[3/14/2025 8:32 PM] Narration
+Zendo lethargically made his way towards his destination. Each step only punctuated the distance that he had yet traversed.
+
+He put one block behind him with one remaining. At this time, Zendo had garnered the eyes of a group of people sitting on the partially collapsed balcony of their home—one of them smiled contemptuously at the expense of the wounded man. Perhaps he found the negative disposition in the situation ironic or amusing?
+
+**"Hey, choomba. Quit bein' a little bitch."**One of his friends shouted from the safety of their elevated position. They broke out into laughter.
+
+
+[3/15/2025 2:31 AM] Zendō
+Whether or not he heard this remark was unclear with his uninterrupted stride. His eyes locked forward and his movements unchanged, he kept moving forward, focused on his destination.
+
+
+[3/15/2025 10:47 PM] Narration
+Finally, he approached the dilapidated building where the ripperdoc's office was supposed to be. Rust-stained walls and boarded-up windows defined the structure, while faint neon flickered intermittently, barely illuminating the peeling signage. The doorway was partially obstructed by overflowing trash bags and graffiti-covered metal shutters.
+
+There were a few people just outside loitering. One woman was slouched over, foaming at the mouth and twitching on the ground. One guy was missing half of his face, and the edges of the missing sections and scorch marks were left.
+
+
+[3/16/2025 11:34 AM] Zendō
+Zendo attempts to check the coordinates again, to make sure he’s in the right place. He double and triple checks the results before letting out a sigh. He moves closer to the door trying to get a peek inside through the cracks in the wood and windows to get a look at who’s inside if anybody.
+
+
+[3/20/2025 7:11 PM] Narration
+Zendo peered inside of the delapitated building and was presented with a less-than-perstine lobby. The lobby was cramped, dimly lit space that smelled of dated antispetic and oil. The windows were boarded up with mismatch sheets of reinforced metal and cracked plywood. 
+
+The floor is scuffed tile, yellowed with age and grime, with a few faded bloodstains that on one bothered to clean properly. A battered plastic bench sit against one wall, its surface covered in graffiti, burn marks, and deep scratches from impatient cybernetic fingers. 
+
+A gaunt man with a  half-installed cybernetic arm stis hunched on the bench, his synthetic fingers twitching erratically as he mutters to himself. His remaining flesh hand clutches his jacket, waiting for his turn with a mix of exhuastion and desperation. Across from him, another man with a tattered t-shirt adjusts a cracked visor covering his eyes, the flickering light reflecting in the damanged optis. He keeps his back to the wall.
+
+Near the counter, a heavily augumented man with dermal plating and exposed wiring leans against the desk arguing with the tired-looking assistant. **"I told you, the damn thing's shorting out again! You said this fix would last"!** His voice is rough, distorted slightly by a voice modulartor that crackles with static. The assistant barely looks up, tapping on a glitching terminal and sighing. **"Yeah, yeah, you want a warranty, go see a corpo. You got micros or what?"**
+
+In the corner, a younger figure, barely more than a kid, sits on the floor cradling somthing within their arms. They glance up every so often, eyeing the other patrons warily, as if trying to decide who is least likely to rob them before they get treated.
+
+This sure is the place alright...
+
+
+[3/22/2025 1:30 AM] Zendō
+*ding,ding* A bell at the top right corner of the door rings as the front door opens and closes. Everyone in the building, without stopping whatever task they were doing, looks towards the front door. For a only a second everyone shared eye contact with Zendo, before continuing with their lives. Slightly annoyed by this, Zendo shuffles forward towards the counter and stops just before the man leaning against it. 
+
+*'I can't believe I am waiting in line with my condition. No one is special in the stacks, huh?'* He thought to himself.
+
+
+[3/23/2025 7:38 PM] Narration
+The man who was arguing with the assistant at the counter finally conceded in the argument, knowing that he was destined to get nowhere with the detached employee. **"I'll take my biz elsewhere."** The guy stepped away from the counter and bumped into Zendo and continues on his way out the door. **"Out of my way."**
+
+The assistant glanced up from the edge of the booth that anchored his attention. Finally, he could look wherever he pleased without that short-circuited moron mugging him.
+
+
+[3/28/2025 3:14 AM] Zendō
+“Are you really gonna make me ask?” Zendo said through a pained grunt, falling slightly onto the desk barely able to hold his own weight up.
+
+
+[3/30/2025 9:58 PM] Narration
+The person at the deck seemed emotionally unmoved by Zendo's question. Their eyes locked onto Zendo and then towards his seemingly worsening wound. **"There is a wait."** They said plainly as they were migrating files from one device to another with their wrist jack. **"You can have a seat and we'll get to you eventually. Even if you were to blackout."** 
+
+Behind the desk, the ripperdoc could be seen cleaning some sort of mechanism, the size of his palm adjecent to the counter.
+
+The ripperdoc was an older man, maybe in his late fifties, but hard to tell under all the chrome and surgical scars. His face was a myraid of dermal implants, subdermal reinforcements causing his jawline to jut with unnatural symmetry. His right eye had been replaced with a gimbaled optics module that adjusted focus with a soft mechanical whirr every few seconds, flicking from the mechanism in his hand to the screen nearby. Grease stained his gloves and apron, and the sterile smock he wore underneath was anything but. A series of modular tools were magnetically clipped to his chest rig—bone saw, auto-suture, micro-drill—each well-worn from years of work in places like this.
+
+The mechanism he was cleaning resembled a spinal shunt, likely intended for neural interface support. He handled it with precision, even affection, like a mechanic tuning an old engine. But his hands stilled the moment he caught sight of Zendo.
+
+His artificial eye buzzed slightly as it zoomed in on the emblem stitched into the outer layer of Zendo’s coat—barely visible under grime and blood. The Kinryu Clan... The symbol of Kinryu Clan.
+
+The doc slowly rose, setting the mechanism down with care. He leaned forward, parting the low-hanging bead curtain that separated the operating space from the lobby. **"...That real?"** he asked, voice deep and rasped like gravel in a blender. **That emblem?"**
+
+
+[4/1/2025 4:45 AM] Zendō
+"What do you think?" he replied painfully as he pushes his way behind the desk, knocking things over and breaking a coffee mug before halfway falling onto  a table near the ripperdoc. "I need your help Doc, now. It wouldn't hurt having the Kinryu Clan in your favors would it?"
+
+
+[4/3/2025 6:13 PM] Narration
+With his eye zooming out, the ripperdoc regarded Zendo with much consideration. It was not everday a member of the esteemed Kinryu clan found themselves knocking at his doorsteps. In fact, never has this occured. 
+
+It was evident that it was authentic to the doc. The material in which the fabric was made of and despite his unfortunate injuries, Zendo carried aura that compelled the doc. The assistant to the ripperdoc was going to say something, opening their mouth to speak but was stopped with the gesture of his employer.
+
+With the other hand, he would reach into his coat and withdrew a inhaliant device; an inhaler of sorts and offered it to Zendo. **"Take this, it will dull the pain... I can fix you up, come with me."** Still holding out the inhaler, the doc would stand up.
+
+
+[4/4/2025 8:22 PM] Zendō
+Zendo stood up, snatching the inhaler and putting it to his mouth took the deepest breath he could. He coughed a bit, from such a deep breath but as the cough stopped so did the pain. Not entirely, but it was enough to help him walk with doc. The relief was evident from his body language. Finally able to stand up right, he followed. 
+
+**"I'm glad to see some piece of respect here. Was beginning to think it was all lost."** He said this almost forgetting what had befallen him. As soon as the words left his lips, he realized that the reality of how much things have changed, and its only the beginning.
+
+Before he could get a response, he grabbed the doc by the shoulder and began to spin him around, but with his missing arm, as he spun the doc, his forearm landed on his chest holding him against the wall. 
+
+**"I'm grateful for this doc, but it needs to be kept quiet."** he said. **"My enemies have revealed their true face and I'm...I'm not sure who to trust. Can I trust you?"**
+
+
+[4/5/2025 8:36 PM] Narration
+The ripperdoc didn't flinch. He'd stared down dying men, panicked mercs, paranoid edgerunners. But this was different. This man had bled for something greater once—something powerful. He studied Zendo's eyes for a long moment. 
+
+**"I fix people, not sell them out,"** the doc said flatly. **"But you put that arm to my chest again, and trust or not, I'll sedate you so fast you'll dream in static."** He'd pushed Zendo's arm away—not roughly, but with finality—and turned back to the surgical chair. **"Get in. I'll patch you up, no questions asked. Just don't bleed out before I finish, yeah?"**
+
+The doc rolled up his sleeves and activated the surgical suite with a few flicks of his wrist. Machinery came to life around them. The buzzing of drones, the mechanical arms sligning, scanners flickering to life. 
+
+**"Now tell me where it hurts, Kinryu... Aside from your arm. That much is obvious."**
+
+{Reactions}
+kaeG (4) KaeO (4) kaeA (4) KaeT (4) kaeE (4) kaeD (4)
+
+[4/13/2025 10:30 PM] Zendō
+hesitated a moment. Satisfied by his answer, with his one hand, he carefully, removed and folded the upper garment of his robes. The cuts and tears throughout it showed precision, clearly made by a very sharp blade. Where they fell into position lined up with the lacerations on his torso. He sat down carefully in the chair before locking his eyes to the folded robe, the Kinryu Clan symbol still intact on the back of it but covered in mud and stained with blood. 
+
+**"My ribs, I'm pretty sure some are broken and I think my right leg is dislocated, can barley put any weight on to it."** He paused, his eyes stuck to the the symbol sewn in to the robes.
+
+
+[4/13/2025 11:00 PM] Narration
+Doc hummed a low, thoughtful tune as he sank into his chair, the familiar creak of aluminum a comforting backdrop to his active mind. He began running through his mental checklist, focusing intently on the essential tools he would need and playing out scenarios in his head on what he would require to allow the Kinryu outcast to rise again. 
+
+Several scanners brushed past Zendo at varying distances. Getting remote biometric data on different metrics and readings to efficiently guide the mechanical arms and buzzing drones and getting ready for the task.
+
+Surprisingly, this doc had quite the setup for such a run-down facade that gave the exterior a haunting appearance. This was no mere ripper doc; this doc had money and resources.
+
+**"Ribs can be readily replaced, and your leg will be repositioned in no time..."** the doctor remarked as he pulled his chair along the sterile flooring, now doing a visual examination of the man. 
+
+**"Concerning your arm, I have several options. Each of these options is an investment, but if your goal is to fully restore your motor functions, they will be worth it. If you want something that just works, I can do that too."**
+
+One of the sleek drones, hovering silently just behind the doc as it meticulously scanned the intricate details of Zendo, suddenly emitted a series of vivid diagnostic flashes. The ripper, momentarily captivated by the rapidly changing data, allowed his gaze to wander into the distance, lost in thought as the information stirred **"You have a neural assistant that is malfunctioning. I will see to it that I revive it during your operation as well."**
+
+
+[4/16/2025 12:30 AM] Zendō
+**"I'll need complete motor function. It needs to seem like it was never lost."**
+
+He looks towards the ceiling and closes his eyes.
+
+**"I still have work to do."**
+
+
+[4/16/2025 12:54 AM] Narration
+The ripper doc's attention deviated from the diagnostic information. He continuously scrolled down the height of his iris, focusing his gaze upon Zendo, who was now settling into the surgical chair. 
+
+`("Full motor function. Steep, but it shouldn't be for someone of the Kinryu Clan...")` He thought internally. 
+
+With the orbit of his index finger rolling about the constraints of his knuckle, he signaled for his aesthetic drone to begin applying the crucial dosage of palliative and numbing agents to keep Zendo restful.
+
+**"For a man of your build and the chrome you'll need to return all motor functions; we'll be looking at pricing skywards o—"**
+
+
+[4/16/2025 1:07 AM] Zendō
+*Before the doc can finish his sentence Zendo transfers 75,000₥R knowing that would more than cover his costs and more*
+
+
+[4/16/2025 2:32 AM] gardengnostic2
+no its fine its nott like there are people in your area that need that money
+
+
+[4/16/2025 2:32 AM] gardengnostic2
+im fine this is fine im not like upset at all haha
+
+
+[4/17/2025 12:44 AM] disciples116
+https://tenor.com/view/miles-morales-across-the-spider-verse-spider-man-miles-morales-miles-morales-running-away-running-gif-16349151473948188499
+
+{Embed}
+https://tenor.com/view/miles-morales-across-the-spider-verse-spider-man-miles-morales-miles-morales-running-away-running-gif-16349151473948188499
+https://images-ext-1.discordapp.net/external/HneEshufPSpgbUQt00ftvIWTlTfQ7-Wsr4Cn8OB_XO4/https/media.tenor.com/4uPapN-8X1MAAAAe/miles-morales-across-the-spider-verse-spider-man-miles-morales.png
+
+
+[4/17/2025 10:28 AM] hoffue
+yeah it’s fine man i mean it’s totally not a lot of money yk 75k ain’t that much pfft like even cole used to have this much…………………
+
+
+[4/17/2025 8:43 PM] Narration
+The Ripper Doc’s brows tugged briefly as the micros were transferred to his account. 75 grand was no chump change. With that kind of money for an arm…
+
+The doctor swiftly brushed aside the nagging thoughts swirling in his mind. He recognized that the most prudent course of action was to silence his inner musings and dive into the task at hand with fervor, tearing through the flesh and lack thereof before him with determination.
+
+With the roll of his sleeves, Zendo slowly began to lose consciousness as the drug began to work in his favor. **"Got it."**
+
+
+[5/2/2025 5:43 PM] Zendō
+The entirety of Zendos unconsious state was plagued by the very same visions he couldn't shrug on his way to the ripper doc. The rain, the blood, everything he had lost. Even in sleep, there was no escape from the horror that had befallen him.
+
+
+[5/17/2025 8:13 PM] Narration
+The world was absent from existence for Zendō throughout the operation he was undergoing, aside from the boot-up sequences that initiated but were interrupted by the ripperdoc. Binary and Hex patterns flickered and waned like the whispers of the winds that would kiss the surface of the skyscraper that housed his clan, his people.
+
+This eternity was not meant to last forever; the boot-up sequence of his consciousness would start over once more.
+
+
+[5/17/2025 8:13 PM] Narration
+```ansi
+[== System Diagnostic: Netrunner Interface ==]
+[[1;34mBLOOD STATUS[0m] [1;32mGREAT[0m [1;90m[[0m[1;91mMONITORED[0m[1;90m][0m
+[[1;34mINJURY[0m]  [1;32mNONE[0m [1;33m[AREAS: N/A][0m
+[[1;34mCONSCIOUSNESS[0m]   [1;31mREBOOTING[0m [1;33m[CAUSE: MEDICALLY INDUCED SLEEP][0m
+[[1;34mCONDITION[0m]   [1;32mGREAT[0m [1;90m[[0m[1;96mNO CONCERN[0m[1;90m][0m
+
+**__>> INCIDENT OVERVIEW <<__**
+[1;34mNetrunner ID[0m: [1;35m[NONE][0m
+[1;34mTask[0m: [1;36mDIAGNOSTIC SCAN[0m - [1;33mWAKING UP[0m
+[1;34mRecent Activity[0m: [1;32mGETTING MEDICAL TREATMENT[0m
+[1;34mDamage Analysis[0m: [1;92m[NOTHING TO REPORT][0m.
+
+**__>> ADDITIONAL NOTES <<__**
+[1;32mALL ISSUED RECITIFED SINCE LAST SUCCESSFUL BOOT.[0m 
+[1;90mICE PROTOCAL ENABLED[0m
+[1;32m72/72 ONBOARD SYSTEMS STARTED SUCCESSFULLY. [0m
+[1;33mAUTONOMOUS ASSISTANT IS ENABLED[0m
+```
+
+
+[5/29/2025 1:04 PM] Zendō
+With his eyes fluttering open and the system diagnostics leaving his view, the first thing his eyes see is his forearm, well, his new one. Immediately, he begins testing it to gain a better familiarity with it.
+
+
+==============================================================
+Exported 247 message(s)
+==============================================================

@@ -1,0 +1,389 @@
+{
+  "guild": {
+    "id": "1106367747727835206",
+    "name": "Horizon Grey",
+    "iconUrl": "https://cdn.discordapp.com/icons/1106367747727835206/25bb3534dc7dd00093b455a0e8f02934.png?size=512"
+  },
+  "channel": {
+    "id": "1335481467366674442",
+    "type": "GuildPublicThread",
+    "categoryId": "1107378944946212874",
+    "category": "ℂ\uD835\uDD59\uD835\uDD52\uD835\uDD63\uD835\uDD52\uD835\uDD54\uD835\uDD65\uD835\uDD56\uD835\uDD63\uD835\uDD64",
+    "name": "Paige Underwood",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-09-17T21:05:48.2509725-04:00",
+  "messages": [
+    {
+      "id": "1335481467366674442",
+      "type": "Default",
+      "timestamp": "2025-02-02T00:26:33.866-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "``Age:`` 24\n``Gender:`` Female\n``Occupation:`` Mechanical Engineer\n``Faction:`` Horizon Grey\n\nPaige is a energetic and compassionate woman. Having experienced only the later half of the original downfall of Horizon Grey, her personality is one of optimism. A large contrast compared to Mathias.",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1335481467727511562",
+          "url": "https://cdn.discordapp.com/attachments/1335481467366674442/1335481467727511562/paige_newaftergardenedit.png?ex=68cc40c9&is=68caef49&hm=eb1ce6e3fb0b82980a699ea8e62b0057080675241674dacd8c5dde40897c98c2&",
+          "fileName": "paige_newaftergardenedit.png",
+          "fileSizeBytes": 1812118
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1283417048956928113",
+            "name": "pepeGachi",
+            "code": "pepeGachi",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1283417048956928113.gif"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "159490756506157056",
+              "name": "dysplexus",
+              "discriminator": "0000",
+              "nickname": "# 1.5 Grace Fan",
+              "color": "#3498DB",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+            },
+            {
+              "id": "357536686919516162",
+              "name": "hoffue",
+              "discriminator": "0000",
+              "nickname": "hoff",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/357536686919516162/136d5630d2f7fa1346c1169b6c6b872c.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "1335481040902422578",
+            "name": "Londonite",
+            "code": "Londonite",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1335481040902422578.png"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "159490756506157056",
+              "name": "dysplexus",
+              "discriminator": "0000",
+              "nickname": "# 1.5 Grace Fan",
+              "color": "#3498DB",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+            },
+            {
+              "id": "187653686703423488",
+              "name": "soulrifthunter",
+              "discriminator": "0000",
+              "nickname": "Soulrifthunter",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/187653686703423488/eb6578b4da24829782473c40ef89e5a0.png?size=512"
+            },
+            {
+              "id": "290004023556308993",
+              "name": "gardengnostic2",
+              "discriminator": "0000",
+              "nickname": "garden",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/290004023556308993/2f71e8b1c9548722fbaef66c40ae1310.png?size=512"
+            },
+            {
+              "id": "296415997114449920",
+              "name": "kazito_kaz",
+              "discriminator": "0000",
+              "nickname": "Kaz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/296415997114449920/ce8c66e96398d3c76cd87c978c930731.png?size=512"
+            },
+            {
+              "id": "357536686919516162",
+              "name": "hoffue",
+              "discriminator": "0000",
+              "nickname": "hoff",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/357536686919516162/136d5630d2f7fa1346c1169b6c6b872c.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1335481546903257168",
+      "type": "Default",
+      "timestamp": "2025-02-02T00:26:52.829-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1335481546563522581",
+          "url": "https://cdn.discordapp.com/attachments/1335481467366674442/1335481546563522581/Voice_Reference.mp3?ex=68cc40dc&is=68caef5c&hm=089635ccfa2b70c47631abfb6052636feddb0d9e3a4e6e86ef9025dd29f42e18&",
+          "fileName": "Voice_Reference.mp3",
+          "fileSizeBytes": 235102
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1344869345754480790",
+      "type": "Default",
+      "timestamp": "2025-02-27T22:10:38.492-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Relationships ##",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1344869446514376765",
+      "type": "Default",
+      "timestamp": "2025-02-27T22:11:02.515-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/1106367747727835206/1342562714534416414 — The relationship between Paige and Digit currently is uncertain. It is known that the two were in a romantical relationship at one point but the details of when, how, and why are in the smoke. Apparently, Paige owes Digit money and is currently paying off her undisclosed debts to the fixer.",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1344871227885617182",
+      "type": "Default",
+      "timestamp": "2025-02-27T22:18:07.227-05:00",
+      "timestampEdited": "2025-02-27T22:19:29.81-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/1106367747727835206/1107495531325947985 — Overall, Paige cherishes Cat as if she were her sister. As they opened up to one another, their bond deepened, blossoming into a relationship filled with trust. Paige feels a profound sense of commitment to Cat's success and is determined to support her in every possible way, ready to encourage her dreams and share in her challenges.\n\n• Paige is torn that Cat had to see her in such a [state](https://discord.com/channels/1106367747727835206/1108197736777527406/1331838410939174942). Embarrassed even.",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1344873592281890837",
+      "type": "Default",
+      "timestamp": "2025-02-27T22:27:30.943-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/1106367747727835206/1107448525064785920 — Paige regards Cole as someone who is level in the midst of chaos and stress. His exceptional skills in combat have earned her deep respect, viewing him as a formidable combatant. However, she has also noticed a distinct lack of empathy in his demeanor, especially during moments when [sensitivity and understanding might be necessary](https://discord.com/channels/1106367747727835206/1117642684945940500/1325371506536218656). This combination of unwavering strength and emotional detachment creates a complex picture of a warrior who excels in battle but struggles to connect on a more personal level. She'll need more time to form an deeper opinion on him.",
+      "author": {
+        "id": "159490756506157056",
+        "name": "dysplexus",
+        "discriminator": "0000",
+        "nickname": "# 1.5 Grace Fan",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1109701916893642753",
+            "name": "Cat's OnlyFans",
+            "color": "#3498DB",
+            "position": 22
+          },
+          {
+            "id": "1109702012054032475",
+            "name": "Team Grace",
+            "color": "#2ECC71",
+            "position": 19
+          },
+          {
+            "id": "1111445668616212511",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1106367747727835206/users/159490756506157056/avatars/9ffd1d4604151927625da88e2cde3c32.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}
